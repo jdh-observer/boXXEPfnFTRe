@@ -16,7 +16,7 @@ jobs:
         id: preflight
         uses: c2dh/journal-of-digital-history-ipynb-preflight-action@master
         with:
-          notebook: 'article.ipynb'
+          notebook: 'anonymized_gaming_the_qing_mandarinate_a_network_and_monte_carlo_approach_to_a_nineteenth-century_chinese_boardgame.ipynb'
           functions: 'checkcitation,checkoutput,checkhtml,checkjavascript,checktags,checkurls'
           output_md: 'report.md'
       # Use the output from the `preflight` step
