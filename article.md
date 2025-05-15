@@ -481,7 +481,7 @@ We have already seen that *Mandarin Promotions* follows the “Examination of Ra
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-33-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-33-*"] -->
 |County Magistrate|Great Reckoning verdict|Appointed to
 |-|-|-
 |C15-縣 : P92-京縣 County Magistrate in the Capital Prefecture|卓異 Outstanding<br/>內記名 royal nomination|煩府 Prefect in a difficult prefecture
@@ -532,7 +532,7 @@ For this, we again turn to a graph-local question and use the in-degree of the t
 On the surface, the distribution of merit scores between the six ministries appears evenly distributed with peaks of a higher number of incoming edges in the Ministries of Revenue and Punishments. That there are fewer candidates appointed with a corrupt verdict is natural. Firstly, there are fewer “corrupt” scores in the entire graph. Among the <span style="font-variant: small-caps;">merit</span> relationships, 3,687 are for <span style="font-variant: small-caps;">virtue</span>, 3,868 <span style="font-variant: small-caps;">talent</span>, 3,404 <span style="font-variant: small-caps;">effort</span>, 3,139 <span style="font-variant: small-caps;">mediocre</span>, 2,861 <span style="font-variant: small-caps;">weak</span>, and only 1,064 <span style="font-variant: small-caps;">corrput</span>. The general sentiment of the game, it appears, is one of optimism. Secondly, if a “corrupt” score lands you on a position, this is mostly a demotion, i.e. a downgrading from higher rank. 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-341-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-341-*"] -->
 Merit|War|Works|Revenue|Rites|Punishments|Personnel|
 -|-|-|-|-|-|-|
 <span style="font-variant: small-caps;">virtue</span>|66|51|78|79|79|59
@@ -556,7 +556,7 @@ This trend is more pronounced for the three entry-level positions in the ministr
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-342-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-342-*"] -->
 ||郎中, 5a, Department Director|員外郎, 5b, Vice Department Director|主事, 6a, Secretary|Totals
 -|-|-|-|-
 C32-Works|P193|P194|P195||
@@ -659,7 +659,7 @@ In the game, too, commoners (*baiding* 白丁) have no place.  They remain “ou
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-41-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-41-*"] -->
 Dice|Compartment|Position|Translation|Category
 -|-|-|-|-
 3456|C1-出身|P1-蔭生|Honorary Licentiate|Hereditary privilege
@@ -826,32 +826,30 @@ First, we consider how long it takes players starting from different chushen to 
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-441-*"] -->
-Dice|Position|Translation|Average number of hops until retirement|Average effective money (From/to pool, From/to other players)|Average final rank (1a = 19, unclassed = 1)|
--|-|-|-|-|-|-
-3456|P1-蔭生|Honorary Licentiate|31.2|19.6 (-3.6, 23.3)|17.9|
-1144|P2-軍功|Military Merit|35.8|-11.1 (-5.7, -5.4)|17.7|
-DxDx|P3-貢生|Senior Licentiate, Tribute Student|36.4|7.5 (0.2, 7.4)|17.8|
-T4|P4-恩賞|Imperial Grant|28.9|22.6 (-6.4, 29.0)|17.8|
-T5|P5-保舉|Recommendation|35.1|-8.2 (-6.9, -1.2)|17.8|
-T6|P6-詞科|Graduate of Grace Palace Examination|33.5|31.2 (8.3, 22.9)|17.9|
-T3|P7-筆帖式|Banner clerk|37.6|40.5 (17.3, 23.2)|18.2|
-T2|P8-天文生|Student of Astronomy|37.1|-22.2 (-13.0, -9.2)|17.6|
-T1|P9-醫士|Student of Medicine|29.8|-18.2 (-13.0, -9.2)|17|
-D4|P10-生員|Licentiate|36.4|10.5 (2.4, 8.1)|17.8|
-D6|P11-監生|Imperial Academy Collegian|36.1|3.4 (-0.7, 4.1)|17.8|
-D5|P12-官學生|Student of the Banner School|38.1|36.9 (16.5, 20.4)|18.1|
-D3|P13-供事|Senior Clerk|39.1|-27.2 (-4.5, -22.7)|17.6|
-D2|P14-吏員|Clerk|39.9|-31.8 (-4.7, -27.1)|17.6|
-D1|P15-童生|Student|38|-11 (-2.3, -8.7)|17.7|
-4444|P16-衍聖公|Sacred Prince (Descendent of Confucius)|31|386.7 (-5.0, 391.7)|17.9|
-6666|P17-一等輕車都尉|First Commander of the Light Chariot Force|15.4|184.2 (-13.3, 197.6)|18.1|
-5555|P18-二等輕車都尉|Second Commander of the Light Chariot Force|19.4|186.5 (-5.6, 192.1)|18|
-3333|P19-三等輕車都尉|Third Commander of the Light Chariot Force|24.5|172.7 (-6.7, 179.4)|18.1|
-2222|P20-騎都尉|Senior Commander of the Cavalry|28.8|157.3 (3.2, 154.2)|18|
-1111|P21-雲騎尉|Junior Commander of the Cavalry|29.5|144.3 (-4.2, 148.5)|18.9
-
-
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-441-*"] -->
+| Dice | Position | Translation | Average number of hops until retirement | Average effective money (From/to pool, From/to other players) | Average final rank (1a = 19, unclassed = 1) |
+|------|----------|-------------|----------------------------------------|--------------------------------------------------------------|-------------------------------------------|
+| 3456 | P1-蔭生 | Honorary Licentiate | 31.2 | 19.6 (-3.6, 23.3) | 17.9 |
+| 1144 | P2-軍功 | Military Merit | 35.8 | -11.1 (-5.7, -5.4) | 17.7 |
+| DxDx | P3-貢生 | Senior Licentiate, Tribute Student | 36.4 | 7.5 (0.2, 7.4) | 17.8 |
+| T4 | P4-恩賞 | Imperial Grant | 28.9 | 22.6 (-6.4, 29.0) | 17.8 |
+| T5 | P5-保舉 | Recommendation | 35.1 | -8.2 (-6.9, -1.2) | 17.8 |
+| T6 | P6-詞科 | Graduate of Grace Palace Examination | 33.5 | 31.2 (8.3, 22.9) | 17.9 |
+| T3 | P7-筆帖式 | Banner clerk | 37.6 | 40.5 (17.3, 23.2) | 18.2 |
+| T2 | P8-天文生 | Student of Astronomy | 37.1 | -22.2 (-13.0, -9.2) | 17.6 |
+| T1 | P9-醫士 | Student of Medicine | 29.8 | -18.2 (-13.0, -9.2) | 17 |
+| D4 | P10-生員 | Licentiate | 36.4 | 10.5 (2.4, 8.1) | 17.8 |
+| D6 | P11-監生 | Imperial Academy Collegian | 36.1 | 3.4 (-0.7, 4.1) | 17.8 |
+| D5 | P12-官學生 | Student of the Banner School | 38.1 | 36.9 (16.5, 20.4) | 18.1 |
+| D3 | P13-供事 | Senior Clerk | 39.1 | -27.2 (-4.5, -22.7) | 17.6 |
+| D2 | P14-吏員 | Clerk | 39.9 | -31.8 (-4.7, -27.1) | 17.6 |
+| D1 | P15-童生 | Student | 38 | -11 (-2.3, -8.7) | 17.7 |
+| 4444 | P16-衍聖公 | Sacred Prince (Descendent of Confucius) | 31 | 386.7 (-5.0, 391.7) | 17.9 |
+| 6666 | P17-一等輕車都尉 | First Commander of the Light Chariot Force | 15.4 | 184.2 (-13.3, 197.6) | 18.1 |
+| 5555 | P18-二等輕車都尉 | Second Commander of the Light Chariot Force | 19.4 | 186.5 (-5.6, 192.1) | 18 |
+| 3333 | P19-三等輕車都尉 | Third Commander of the Light Chariot Force | 24.5 | 172.7 (-6.7, 179.4) | 18.1 |
+| 2222 | P20-騎都尉 | Senior Commander of the Cavalry | 28.8 | 157.3 (3.2, 154.2) | 18 |
+| 1111 | P21-雲騎尉 | Junior Commander of the Cavalry | 29.5 | 144.3 (-4.2, 148.5) | 18.9 |
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
@@ -874,7 +872,7 @@ Finally, looking at the average final rank that players starting from the differ
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-442-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-442-*"] -->
 Did go through examination system?|Average number of hops until retirement|Average effective money (From/to pool, From/to other players)|Average final rank (1a = 19, unclassed = 1)|
 -|-|-|-
 Yes|36.8|5.9 (1.4, 4.5)|17.8|
@@ -933,7 +931,7 @@ However, according to our interpretation of the rules, the more favorable *chush
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-451-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-451-*"] -->
 Dice|Position|Translation|Average number of hops until retirement (without purchase)|Average effective money (without purchase) |Average final rank (1a = 19, unclassed = 1) (without purchase)|
 -|-|-|-|-|-
 3456|P1-蔭生|Honorary Licentiate|25.3 (31.2)|7.0 (19.6) |18.1 (17.9)|
