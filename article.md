@@ -243,7 +243,7 @@ metadata={
         }
     }
 }
-display(Image("media/DBSchema.png", width=1000), metadata=metadata)
+display(Image("media/DBSchema.png"), metadata=metadata)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
@@ -307,8 +307,7 @@ metadata={
         }
     }
 }
-display(Image("media/Figure 3.2.1. PJK_Trsl.png", width=1000))
-display(Image("media/Figure 3.2.1. PJK_chin.png", width=1000), metadata=metadata)
+display(Image("media/Figure 3.2.1. PJK_chin.png"), metadata=metadata)
 ```
 
 <!-- #region citation-manager={"citations": {"s1zfn": [{"id": "14298532/WB58FURK", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
@@ -353,8 +352,7 @@ metadata={
         }
     }
 }
-display(Image("media/Figure 3.2.2. SGT v. 4 filtered trsl.png", width=1000))
-display(Image("media/Figure 3.2.2. SGT v.4 filtered chin.png", width=1000), metadata=metadata)
+display(Image("media/Figure 3.2.2. SGT v.4 filtered chin.png"), metadata=metadata)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
@@ -458,7 +456,7 @@ metadata={
         }
     }
 }
-display(Image("media/Figure 3.2.png", width=1000), metadata=metadata)
+display(Image("media/Figure 3.2.png"), metadata=metadata)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
@@ -629,7 +627,7 @@ metadata={
         }
     }
 }
-display(Image("media/Figure 3.4.2. Merit_Scores_RadarChart_en.png", width=1000), metadata=metadata)
+display(Image("media/Figure 3.4.2. Merit_Scores_RadarChart_en.png"), metadata=metadata)
 ```
 
 <!-- #region citation-manager={"citations": {"4buyp": [{"id": "14298532/PX4XEZRW", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
@@ -722,7 +720,7 @@ metadata={
         }
     }
 }
-display(Image("media/Figure 4.2.jpg", width=1000), metadata=metadata)
+display(Image("media/Figure 4.2.jpg"), metadata=metadata)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
