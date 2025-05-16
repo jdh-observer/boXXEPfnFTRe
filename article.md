@@ -164,7 +164,7 @@ Secondly, the world imagined by *Mandarin Promotions* is not an equal playing fi
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"ws1xc": [{"id": "14298532/SQFMMJP7", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-Thirdly, fate is the driving force of career development. Similar to life games, Mandarin Promotions is played by dice with little room for strategy or choice. The next step following certain dice rolls is always spelled out in words below each position. Even China’s famed meritocracy (<cite id="ws1xc"><a href="#zotero%7C14298532%2FSQFMMJP7">(Elman, 2013)</a></cite>) is represented as fateful. Dice combinations are not counted numerically but numinously. They are imbued with value: <span style="font-variant: small-caps;">virtue</span> (Double-4), <span style="font-variant: small-caps;">talent</span> (Double-6), <span style="font-variant: small-caps;">effort</span> (Double-5), <span style="font-variant: small-caps;">mediocre</span> (Double-3), <span style="font-variant: small-caps;">weak</span> (Double-2), <span style="font-variant: small-caps;">corrupt</span> (Double-1, can be cancelled by a 4). One could argue that the dice combinations signify merit in a countable way, contradicting the above contestation that the vision of the game is less rational-meritocratic than expected. However, merit is defined by fortune (dice) alone (This is also the case in the Tibetan *Game of Liberation*.). There are also “lucky” dice without numinous names, particularly four equals (*quanse* 全色) and 3-4-5-6 (*chuanhua* 穿花, garland), and they always ensure the best career moves. Only one provision in the rules  allows some agency to the player: the purchase of an office.
+Thirdly, fate is the driving force of career development. Similar to life games, Mandarin Promotions is played by dice with little room for strategy or choice. The next step following certain dice rolls is always spelled out in words below each position. Even China’s famed meritocracy (<cite id="ws1xc"><a href="#zotero%7C14298532%2FSQFMMJP7">(Elman, 2013)</a></cite>) is represented as fateful. Dice combinations are not counted numerically but numinously. They are imbued with value: VIRTUE (Double-4), TALENT (Double-6), EFFORT (Double-5), MEDIOCRE (Double-3), WEAK (Double-2), CORRUPT (Double-1, can be cancelled by a 4). One could argue that the dice combinations signify merit in a countable way, contradicting the above contestation that the vision of the game is less rational-meritocratic than expected. However, merit is defined by fortune (dice) alone (This is also the case in the Tibetan *Game of Liberation*.). There are also “lucky” dice without numinous names, particularly four equals (*quanse* 全色) and 3-4-5-6 (*chuanhua* 穿花, garland), and they always ensure the best career moves. Only one provision in the rules  allows some agency to the player: the purchase of an office.
 
 <!-- #endregion -->
 
@@ -172,12 +172,12 @@ Thirdly, fate is the driving force of career development. Similar to life games,
 ### The Positions
 <!-- #endregion -->
 
-Starting from the *chushen* positions, players move their game piece from position to position with each further roll of dice according to the instructions printed on the board. From each position five to six other positions can be reached, based on the dice values specified above. While there are six combinations of dice, some positions specify that when rolling one of the two worst cases, <span style="font-variant: small-caps;">corrupt</span> or <span style="font-variant: small-caps;">weak</span>, the player simply remains at their current position.
+Starting from the *chushen* positions, players move their game piece from position to position with each further roll of dice according to the instructions printed on the board. From each position five to six other positions can be reached, based on the dice values specified above. While there are six combinations of dice, some positions specify that when rolling one of the two worst cases, CORRUPT or WEAK, the player simply remains at their current position.
  For an unfamiliar viewer, all positions with their follow-up instructions look similar, but they are not. 
 
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-Firstly, there are the fifteen *chushen* starting positions in department C1 for which special dice values other than the sequence from <span style="font-variant: small-caps;">virtue</span> to <span style="font-variant: small-caps;">corrupt</span> described above apply.  In addition, titles of hereditary nobility (C2) are also reached with the first roll of dice, namely with four equals. Table [5](#table-41-*) in section [4](#section-4) lists the *chushen* positions and titles of nobility as they appear on the game chart. These starting positions correspond to a real-life concept which is a neglected category in the Western historiography of China where it is generally misunderstood as one of three degrees in the civil service examinations. However, out of fifteen *chushen* positions on our game chart, only three are related to the famous civil service examinations. This is different from the seventeenth-century boards where the examinations were the dominant path into office. We hypothesize that *chushen* not only come in different facets, but also determine the career chances of their holders. How *chushen* provenances are related to quantifiable career chances will be the topic of section [4](#section-4) of this paper. 
+Firstly, there are the fifteen *chushen* starting positions in department C1 for which special dice values other than the sequence from VIRTUE to CORRUPT described above apply.  In addition, titles of hereditary nobility (C2) are also reached with the first roll of dice, namely with four equals. Table [5](#table-41-*) in section [4](#section-4) lists the *chushen* positions and titles of nobility as they appear on the game chart. These starting positions correspond to a real-life concept which is a neglected category in the Western historiography of China where it is generally misunderstood as one of three degrees in the civil service examinations. However, out of fifteen *chushen* positions on our game chart, only three are related to the famous civil service examinations. This is different from the seventeenth-century boards where the examinations were the dominant path into office. We hypothesize that *chushen* not only come in different facets, but also determine the career chances of their holders. How *chushen* provenances are related to quantifiable career chances will be the topic of section [4](#section-4) of this paper. 
 
 <!-- #endregion -->
 
@@ -523,22 +523,22 @@ The “Examination” chapters distinguish only between the Ministry of Personne
 In *Mandarin Promotions*, each ministry is listed with its full list of positions. In general, Beijing positions are overrepresented and more differentiated. Due to their duplication across ministries, we cannot determine the centrality of certain official ranks in general. For instance, we cannot say if the vice department director has the same centrality in the game as in “Examination”, because in the former that position exists in more than one ministry. However, we can determine whether the game designer assigned special interest to certain ministries and certain positions. 
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-For this, we again turn to a graph-local question and use the in-degree of the three lower-ranking positions in each ministry. We remind the reader that the game designer has attached value to dice rolls by naming them, namely: <span style="font-variant: small-caps;">virtue</span> (44), <span style="font-variant: small-caps;">talent</span> (66), <span style="font-variant: small-caps;">effort</span> (55), <span style="font-variant: small-caps;">mediocre</span> (33), <span style="font-variant: small-caps;">weak</span> (22), <span style="font-variant: small-caps;">corrput</span> (11). We argue that these names are meaningful and imbue the result of the dice roll with moral value. In a way, they return meritocratic (hence competitive, agon) value to the game, which is entirely a game of luck (alea). We can, therefore, assign a “merit score” by calculating the in-degree by edge type. 
+For this, we again turn to a graph-local question and use the in-degree of the three lower-ranking positions in each ministry. We remind the reader that the game designer has attached value to dice rolls by naming them, namely: VIRTUE (44), TALENT (66), EFFORT (55), MEDIOCRE (33), WEAK (22), CORRUPT (11). We argue that these names are meaningful and imbue the result of the dice roll with moral value. In a way, they return meritocratic (hence competitive, agon) value to the game, which is entirely a game of luck (alea). We can, therefore, assign a “merit score” by calculating the in-degree by edge type. 
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-On the surface, the distribution of merit scores between the six ministries appears evenly distributed with peaks of a higher number of incoming edges in the Ministries of Revenue and Punishments. That there are fewer candidates appointed with a corrupt verdict is natural. Firstly, there are fewer “corrupt” scores in the entire graph. Among the <span style="font-variant: small-caps;">merit</span> relationships, 3,687 are for <span style="font-variant: small-caps;">virtue</span>, 3,868 <span style="font-variant: small-caps;">talent</span>, 3,404 <span style="font-variant: small-caps;">effort</span>, 3,139 <span style="font-variant: small-caps;">mediocre</span>, 2,861 <span style="font-variant: small-caps;">weak</span>, and only 1,064 <span style="font-variant: small-caps;">corrput</span>. The general sentiment of the game, it appears, is one of optimism. Secondly, if a “corrupt” score lands you on a position, this is mostly a demotion, i.e. a downgrading from higher rank. 
+On the surface, the distribution of merit scores between the six ministries appears evenly distributed with peaks of a higher number of incoming edges in the Ministries of Revenue and Punishments. That there are fewer candidates appointed with a corrupt verdict is natural. Firstly, there are fewer “corrupt” scores in the entire graph. Among the MERIT relationships, 3,687 are for VIRTUE, 3,868 TALENT, 3,404 EFFORT 3,139 MEDIOCRE, 2,861 WEAK, and only 1,064 CORRUPT. The general sentiment of the game, it appears, is one of optimism. Secondly, if a “corrupt” score lands you on a position, this is mostly a demotion, i.e. a downgrading from higher rank. 
 <!-- #endregion -->
 
 <!-- #region editable=true jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} slideshow={"slide_type": ""} tags=["table-341-*"] -->
 Merit|War|Works|Revenue|Rites|Punishments|Personnel|
 -|-|-|-|-|-|-|
-<span style="font-variant: small-caps;">virtue</span>|66|51|78|79|79|59
-<span style="font-variant: small-caps;">talent</span>|49|58|76|51|73|49
-<span style="font-variant: small-caps;">effort</span>|53|54|63|52|66|70
-<span style="font-variant: small-caps;">mediocre</span>|60|59|72|45|51|48
-<span style="font-variant: small-caps;">weak</span>|42|58|64|51|45|53
-<span style="font-variant: small-caps;">corrupt</span>|12|15|14|23|11|14
+VIRTUE|66|51|78|79|79|59
+TALENT|49|58|76|51|73|49
+EFFORT|53|54|63|52|66|70
+MEDIOCRE|60|59|72|45|51|48
+WEAK|42|58|64|51|45|53
+CORRUPT|12|15|14|23|11|14
 Total In-degree|282|295|367|301|325|293
 
 
@@ -558,57 +558,57 @@ This trend is more pronounced for the three entry-level positions in the ministr
 ||郎中, 5a, Department Director|員外郎, 5b, Vice Department Director|主事, 6a, Secretary|Totals
 -|-|-|-|-
 C32-Works|P193|P194|P195||
-<span style="font-variant: small-caps;">effort</span>|4|19|11
-<span style="font-variant: small-caps;">virtue</span>|4|19|4
-<span style="font-variant: small-caps;">talent</span>|4|31|13
-<span style="font-variant: small-caps;">weak</span>|4|18|16
-<span style="font-variant: small-caps;">mediocre</span>|6|16|13
-<span style="font-variant: small-caps;">corrupt</span>|3|3|6
+EFFORT|4|19|11
+VIRTUE|4|19|4
+TALENT|4|31|13
+WEAK|4|18|16
+MEDIOCRE|6|16|13
+CORRUPT|3|3|6
 Total In-degree|25|106|63|194
 |||||
 C33-Punishments|P201|P202|P203
-<span style="font-variant: small-caps;">effort</span>|8|22|12
-<span style="font-variant: small-caps;">virtue</span>|6|26|14
-<span style="font-variant: small-caps;">talent</span>|10|28|14
-<span style="font-variant: small-caps;">weak</span>|4|10|9
-<span style="font-variant: small-caps;">mediocre</span>|5|12|8
-<span style="font-variant: small-caps;">corrupt</span>|1|4|5
+EFFORT|8|22|12
+VIRTUE|6|26|14
+TALENT|10|28|14
+WEAK|4|10|9
+MEDIOCRE|5|12|8
+CORRUPT|1|4|5
 Total In-degree|34|102|62|198
 |
 C34-War|P209|P210|P211
-<span style="font-variant: small-caps;">effort</span>|11|14|5
-<span style="font-variant: small-caps;">virtue</span>|11|12|5
-<span style="font-variant: small-caps;">talent</span>|11|8|6
-<span style="font-variant: small-caps;">weak</span>|6|7|5
-<span style="font-variant: small-caps;">mediocre</span>|10|8|7
-<span style="font-variant: small-caps;">corrupt</span>|1|3|5
+EFFORT|11|14|5
+VIRTUE|11|12|5
+TALENT|11|8|6
+WEAK|6|7|5
+MEDIOCRE|10|8|7
+CORRUPT|1|3|5
 Total In-degree|50|52|33|135
 |
 C35-Rites|P216|P217|P218
-<span style="font-variant: small-caps;">effort</span>|8|10|17
-<span style="font-variant: small-caps;">virtue</span>|14|9|9
-<span style="font-variant: small-caps;">talent</span>|14|8|10
-<span style="font-variant: small-caps;">weak</span>|8|3|17
-<span style="font-variant: small-caps;">mediocre</span>|7|4|11
-<span style="font-variant: small-caps;">corrupt</span>|4|3|6
+EFFORT|8|10|17
+VIRTUE|14|9|9
+TALENT|14|8|10
+WEAK|8|3|17
+MEDIOCRE|7|4|11
+CORRUPT|4|3|6
 Total In-degree|55|37|70|162
 |
 C36-Revenue|P226|P227|P228
-<span style="font-variant: small-caps;">effort</span>|10|17|22
-<span style="font-variant: small-caps;">virtue</span>|11|15|14
-<span style="font-variant: small-caps;">talent</span>|10|16|33
-<span style="font-variant: small-caps;">weak</span>|8|13|22
-<span style="font-variant: small-caps;">mediocre</span>|7|8|21
-<span style="font-variant: small-caps;">corrupt</span>|2|2|5
+EFFORT|10|17|22
+VIRTUE|11|15|14
+TALENT|10|16|33
+WEAK|8|13|22
+MEDIOCRE|7|8|21
+CORRUPT|2|2|5
 Total In-degree|48|71|117|236
 |
 C37-Personnel|P234|P235|P236
-<span style="font-variant: small-caps;">effort</span>|8|18|14
-<span style="font-variant: small-caps;">virtue</span>|13|14|10
-<span style="font-variant: small-caps;">talent</span>|12|15|10
-<span style="font-variant: small-caps;">weak</span>|5|9|12
-<span style="font-variant: small-caps;">mediocre</span>|5|6|12
-<span style="font-variant: small-caps;">corrupt</span>|1|4|3
+EFFORT|8|18|14
+VIRTUE|13|14|10
+TALENT|12|15|10
+WEAK|5|9|12
+MEDIOCRE|5|6|12
+CORRUPT|1|4|3
 Total In-degree|44|66|61|171
 
 
@@ -631,7 +631,7 @@ display(Image("media/Figure 3.4.2. Merit_Scores_RadarChart_en.png"), metadata=me
 ```
 
 <!-- #region citation-manager={"citations": {"4buyp": [{"id": "14298532/PX4XEZRW", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-This balancing between virtue and talent is not self-explanatory. In the nineteenth century, there was a debate about whether virtue or talent was more important for official appointments. The reason was that it gradually dawned on decision makers that the old examinations with their heavy emphasis on the Confucian classics (virtue) no longer sufficed to solve real-world problems. Defenders of office selling, on the other hand, argued that to open this path could attract practical talent (One example comes from Wang Kaiyun 王闓運 (1833-1916): “Men who obtain office by purchase are one third less than those who obtain office by recommendation for military merit, but their talents and administrative abilities are often better than those of magistrates with regular qualification (*zhengtu*). Therefore, though it is true that office purchase is harmful to politics, the allegation that it is responsible for spoiling bureaucratic ranks is not necessarily true.” See: <cite id="4buyp"><a href="#zotero%7C14298532%2FPX4XEZRW">(Wang, 1983)</a></cite>, 165). The Ministries of Revenue, Punishments and Works were popular among office purchasers, and the three positions listed above were those accessible by purchase. The game designer’s “hidden” bias seems clear. This may also be expressed in the lower “popularity” (and tilt towards <span style="font-variant: small-caps;">weak</span>) of the Ministry of Rites, the old refuge of examination graduates.
+This balancing between virtue and talent is not self-explanatory. In the nineteenth century, there was a debate about whether virtue or talent was more important for official appointments. The reason was that it gradually dawned on decision makers that the old examinations with their heavy emphasis on the Confucian classics (virtue) no longer sufficed to solve real-world problems. Defenders of office selling, on the other hand, argued that to open this path could attract practical talent (One example comes from Wang Kaiyun 王闓運 (1833-1916): “Men who obtain office by purchase are one third less than those who obtain office by recommendation for military merit, but their talents and administrative abilities are often better than those of magistrates with regular qualification (*zhengtu*). Therefore, though it is true that office purchase is harmful to politics, the allegation that it is responsible for spoiling bureaucratic ranks is not necessarily true.” See: <cite id="4buyp"><a href="#zotero%7C14298532%2FPX4XEZRW">(Wang, 1983)</a></cite>, 165). The Ministries of Revenue, Punishments and Works were popular among office purchasers, and the three positions listed above were those accessible by purchase. The game designer’s “hidden” bias seems clear. This may also be expressed in the lower “popularity” (and tilt towards WEAK) of the Ministry of Rites, the old refuge of examination graduates.
 
 <!-- #endregion -->
 
