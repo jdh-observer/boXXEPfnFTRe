@@ -982,7 +982,7 @@ At the same time, our simulation of the experiences made by different *chushen* 
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["bibliography","hidden"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["bibliography", "hidden"] -->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|14298532/T4BB86FW"></i>Bell, D. A. (2015). <i>The China Model: Political Meritocracy and the Limits of Democracy</i>. Princeton University Press.</div>
