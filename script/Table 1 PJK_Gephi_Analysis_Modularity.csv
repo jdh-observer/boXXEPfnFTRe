@@ -1,0 +1,261 @@
+Id,Label,rank_class,translations,indegree,outdegree,Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,Location,betweenesscentrality,weighted indegree,weighted outdegree,Weighted Degree,pageranks,eigencentrality,modularity_class,chin_rc,engl_rc
+99,各道監察御史,55,Investigating Censor,0,0,0,5,"0,393258","0,53381",Beijing,"3376,511027",10,17,27,"0,017411","0,133134",0,從五品,5b
+98,鴻臚寺少卿,55,Vice Minister of the Court of State Ceremonial,0,0,0,5,"0,439394","0,59023",Beijing,"1514,809959",5,13,18,"0,002218","0,018498",0,從五品,5b
+63,光祿寺卿,35,Chief Minister of the Court of Imperial Entertainments,0,0,0,3,"0,607143","0,735294",Beijing,"902,977777",16,15,31,"0,014998","0,460605",0,從三品,3b
+64,太僕寺卿,35,Chief Minister of the Court of the Imperial Stud,0,0,0,3,"0,607143","0,735294",Beijing,"902,977777",16,15,31,"0,014998","0,460605",0,從三品,3b
+66,通政使司副使,40,Vice Commissioner of the Office of Transmission,0,0,0,4,"0,513514","0,653509",Beijing,"831,088505",22,10,32,"0,016567","0,333575",0,正四品,4a
+67,大理寺少卿,40,Vice Minister of the Court of Judicial Review,0,0,0,4,"0,513514","0,653509",Beijing,"831,088505",21,10,31,"0,016567","0,333575",0,正四品,4a
+73,各省道員,40,Circuit Intendant,0,0,0,5,"0,373494","0,48172",Provinces,"667,417213",8,7,15,"0,019516","0,098143",0,正四品,4a
+77,内閣侍讀學士,45,Reader-in-waiting of the Grand Secretariat,0,0,0,4,"0,428571","0,519841",Beijing,"614,237877",14,7,21,"0,007584","0,090014",0,從四品,4b
+45,吏部侍郎,20,Vice Minister of Personnel,0,0,0,2,"0,666667","0,75",Beijing,"471,045161",14,3,17,"0,021022",1,0,正二品,2a
+47,戸禮兵刑工五部侍郎,20,Vice Minister (except Personnel),0,0,0,2,"0,7","0,785714",Beijing,"471,045161",12,5,17,"0,017338","0,868409",0,正二品,2a
+44,六部侍郎,20,Vice Minister,0,0,0,2,"0,75","0,833333",Beijing,"467,199254",7,4,11,"0,011202","0,468293",0,正二品,2a
+68,太常寺少卿,40,Vice Minister of the Court of Imperial Sacrifices,0,0,0,4,"0,428571","0,519841",Beijing,"415,522595",20,6,26,"0,007693","0,154599",0,正四品,4a
+69,鴻臚寺卿,40,Chief Minister of the Court of State Ceremonial,0,0,0,4,"0,428571","0,519841",Beijing,"415,522595",20,6,26,"0,007693","0,154599",0,正四品,4a
+70,太僕寺少卿,40,Vice Minister of the the Court of the Imperial Stud,0,0,0,4,"0,428571","0,519841",Beijing,"415,522595",20,6,26,"0,007693","0,154599",0,正四品,4a
+91,六部郎中,50,Department Director in the Six Ministries,0,0,0,5,"0,358491","0,423684",Beijing,"364,766675",4,6,10,"0,013189","0,108915",0,正五品,5a
+71,順天府府丞,40,Vice Governor of Shuntian Prefecture,0,0,0,4,"0,428571","0,519841",Beijing,"332,062174",18,6,24,"0,004799","0,134974",0,正四品,4a
+72,奉天府府丞,40,Vice Governor of Fengtian Prefecture,0,0,0,4,"0,428571","0,519841",Beijing,"332,062174",18,6,24,"0,004799","0,134974",0,正四品,4a
+59,各省按察使,30,Provincial Surveillance Commissioner,0,0,0,5,"0,385965","0,471212",Beijing,"330,286502",4,4,8,"0,0181","0,02866",0,正三品,3a
+89,六科給事中,50,Supervising Censor in the Six Offices of Scrutiny,0,0,0,5,"0,395349","0,54951",Beijing,"247,422222",2,19,21,"0,002233","0,024145",0,正五品,5a
+65,各省鹽運使,35,Provincial Salt Controller,0,0,0,6,"0,2875","0,335507",Beijing,"224,619894",2,2,4,"0,017145","0,063817",0,從三品,3b
+54,宗人府府丞,30,Associate Director of the Imperial Clan Court,0,0,0,3,"0,578947","0,666667",Beijing,"206,391099",12,5,17,"0,010411","0,542356",0,正三品,3a
+55,通政使司通政使,30,Commissioner of the Office of Transmission,0,0,0,3,"0,578947","0,666667",Beijing,"206,391099",12,5,17,"0,010411","0,542356",0,正三品,3a
+56,大理寺卿,30,Chief Minister of the Court of Judicial Review,0,0,0,3,"0,578947","0,666667",Beijing,"206,391099",12,5,17,"0,010411","0,542356",0,正三品,3a
+42,都察院左都御史,15,Left Censor-in-Chief of the Censorate,0,0,0,1,1,1,Beijing,"165,858428",3,7,10,"0,012774","0,350601",0,從一品,1b
+100,翰林院侍講,55,Expositor of the Hanlin Academy,0,0,0,4,"0,529412","0,659722",Beijing,"152,084225",11,18,29,"0,001941","0,03362",0,從五品,5b
+43,六部尚書,15,Minister,0,0,0,1,1,1,Beijing,"111,733029",3,1,4,"0,012565","0,328319",0,從一品,1b
+146,翰林院編修,70,Compiler at the Hanlin Academy,0,0,0,5,"0,386861","0,459748",Beijing,106,2,9,11,"0,002033","0,003045",0,正七品,7a
+51,各省布政使,25,Provincial Administration Commissioner,0,0,0,4,"0,44186","0,539474",Beijing,"98,812426",2,5,7,"0,005885","0,00683",0,從二品,2b
+57,順天府府尹,30,Governor of Shuntian Prefecture,0,0,0,3,"0,583333","0,714286",Beijing,"90,610853",10,11,21,"0,00755","0,401251",0,正三品,3a
+58,奉天府府尹,30,Governor of Fengtian Prefecture,0,0,0,3,"0,56","0,678571",Beijing,"83,108863",10,10,20,"0,00755","0,401251",0,正三品,3a
+85,通政使司叅議,50,Consultant of the Office of Transmission,0,0,0,5,"0,421875","0,559877",Beijing,"82,105865",9,14,23,"0,006093","0,073444",0,正五品,5a
+86,光祿寺少卿,50,Vice Minister of the Court of Imperial Entertainments,0,0,0,5,"0,430769","0,575595",Beijing,"82,105865",7,11,18,"0,005567","0,059109",0,正五品,5a
+49,内閣學士,25,Academician Of the Grand Secretariat,0,0,0,3,"0,588235","0,683333",Beijing,"60,631568",13,5,18,"0,002117","0,194503",0,從二品,2b
+50,翰林院掌院學士,25,Chancellor of the Hanlin Academy,0,0,0,3,"0,588235","0,683333",Beijing,"60,631568",12,5,17,"0,002117","0,194503",0,從二品,2b
+80,翰林院侍講學士,45,Expositor-in-waiting of the Hanlin Academy,0,0,0,4,"0,553191","0,689103",Beijing,"60,175656",12,16,28,"0,001786","0,093484",0,從四品,4b
+61,詹事府詹事,30,Supervisor of the Household of the Heir Apparent,0,0,0,3,"0,510204","0,586667",Beijing,"56,986404",11,7,18,"0,001854","0,159496",0,正三品,3a
+161,翰林院檢討,75,Examining Editor of the Hanlin Academy,0,0,0,5,"0,386861","0,459748",Beijing,53,1,9,10,"0,001393","0,001523",0,從七品,7b
+60,都察院左副都御史,30,Left Vice Censor-in-chief of the Censorate,0,0,0,3,"0,588235","0,683333",Beijing,"48,940641",10,5,15,"0,012458","0,591282",0,正三品,3a
+132,翰林院修撰,65,Senior Compiler of the Hanlin Academy,0,0,0,5,"0,380531","0,456202",Beijing,43,1,7,8,"0,001393","0,001523",0,從六品,6b
+90,右春坊右庶子,50,Right Mentor of the Right Secretariat of the Heir Apparent,0,0,0,4,"0,54717","0,66954",Beijing,"42,904083",10,15,25,"0,001577","0,062153",0,正五品,5a
+53,太常寺卿,30,Chief Minister of the Court of Imperial Sacrifices,0,0,0,3,"0,56","0,678571",Beijing,"42,444844",12,9,21,"0,009274","0,432888",0,正三品,3a
+101,司經局洗馬,55,Librarian of Editorial Service in the Household of the Heir Apparent,0,0,0,5,"0,432099","0,560476",Beijing,"35,513472",11,11,22,"0,001941","0,03362",0,從五品,5b
+135,右春坊右贊善,65,Right Admonisher in the Right Secretariat of the Heir Apparent,0,0,0,5,"0,460674","0,600407",Beijing,"34,973013",6,17,23,"0,001475","0,007844",0,從六品,6b
+81,國子監祭酒,45,Chancellor of the Directorate of Education,0,0,0,4,"0,481481","0,580128",Beijing,"32,614808",12,11,23,"0,001786","0,093484",0,從四品,4b
+118,右春坊右中允,60,Right Companion in the Right Secretariat of the Heir Apparent,0,0,0,5,"0,448276","0,579915",Beijing,"29,473013",6,14,20,"0,00163","0,015817",0,正六品,6a
+114,國子監司業,60,Director of the Studies of the Directorate of Education,0,0,0,5,"0,44186","0,56886",Beijing,"24,473013",6,13,19,"0,001475","0,007844",0,正六品,6a
+76,翰林院侍讀學士,45,Reader-in-waiting of the Hanlin Academy,0,0,0,4,"0,543478","0,676667",Beijing,"21,509583",4,11,15,"0,001364","0,092858",0,從四品,4b
+48,各省巡撫,25,Provincial Governor,0,0,0,1,1,1,Provinces,"12,710424",12,2,14,"0,007539","0,316219",0,從二品,2b
+74,詹事府少詹事,40,Junior Supervisor of the Household of the Heir Apparent,0,0,0,4,"0,471698","0,563333",Beijing,"8,753014",11,9,20,"0,001769","0,140189",0,正四品,4a
+82,左春坊左庶子,50,Left Mentor of the Left Secretariat of the Heir Apparent,0,0,0,4,"0,528302","0,639881",Beijing,"8,247291",3,10,13,"0,00114","0,045017",0,正五品,5a
+96,翰林院侍讀,55,Reader of the Hanlin Academy,0,0,0,4,"0,507246","0,621429",Beijing,"6,291521",4,12,16,"0,001182","0,030332",0,從五品,5b
+40,吏部尚書,15,Minister of Personnel,0,0,0,1,1,1,Beijing,"5,511314",4,1,5,"0,007558","0,134988",0,從一品,1b
+41,戸禮兵刑工五部尚書,15,Minister (except Personnel),0,0,0,1,1,1,Beijing,"5,511314",2,3,5,"0,005304","0,117802",0,從一品,1b
+1,三甲進士庶吉士,0,Hanlin Batchelor from 3rd-tier jinshi,0,0,0,6,"0,282723","0,314815",,0,0,1,1,"0,000753",0,0,unranked,unranked
+20,第一甲第一名進士,0,Optimus Jinshi,0,0,0,6,"0,280255","0,31553",,0,0,1,1,"0,000753",0,0,unranked,unranked
+26,第一甲第二三名進士,0,Secundus and Tertius Jinshi,0,0,0,6,"0,282723","0,314815",,0,0,1,1,"0,000753",0,0,unranked,unranked
+27,二甲進士庶吉士,0,Hanlin Batchelor from 2nd-tier jinshi,0,0,0,6,"0,282723","0,314815",,0,0,1,1,"0,000753",0,0,unranked,unranked
+39,内閣大學士,10,Grand Secretary of the Grand Secretariat,0,0,0,0,0,0,,0,5,0,5,"0,022275","0,12933",0,正一品,1a
+46,各省總督,20,Governor-general,0,0,0,0,0,0,,0,7,0,7,"0,021353","0,448229",0,正二品,2a
+52,内陞布政使,25,Provincial Administration Commissioner (transfer to capital position),0,0,0,4,"0,413043","0,495614",,0,0,3,3,"0,000753",0,0,從二品,2b
+62,内陞按察使,30,Provincial Surveillance Commissioner (transfer to capital position),0,0,0,5,"0,362069","0,434127",,0,0,2,2,"0,000753",0,0,正三品,3a
+75,内陞道員,40,Circuit Intendant (transfer to capital position),0,0,0,5,"0,358025","0,460345",,0,0,5,5,"0,000753",0,0,正四品,4a
+92,六科掌印給事中,50,Seal-holding Supervising Censor in the Six Offices of Scrutiny,0,0,0,5,"0,388235","0,535859",,0,2,12,14,"0,000926","0,005688",0,正五品,5a
+95,内陞六科掌印給事中,50,Seal-holding Supervising Censor in the Six Offices of Scrutiny (transfer to capital position),0,0,0,5,"0,346667","0,455769",,0,0,5,5,"0,000753",0,0,正五品,5a
+105,各道監察御史外轉者,55,Investigating Censor (transfer to provincial position),0,0,0,6,"0,278261","0,327083",,0,0,1,1,"0,000753",0,0,從五品,5b
+107,左春坊左中允,60,Left Companion in the Left Secretariat of the Heir Apparent,0,0,0,5,"0,436782","0,555702",,0,2,10,12,"0,000958","0,012451",0,正六品,6a
+138,左春坊左贊善,65,Left Admonisher in the Left Secretariat of the Heir Apparent,0,0,0,5,"0,444444","0,565417",,0,1,11,12,"0,000843","0,004839",0,從六品,6b
+259,京堂翰銓科道謫官,,NA,0,0,0,6,"0,3125","0,369444",,0,0,1,1,"0,000753",0,0,NA,NA
+197,府州縣訓導,85,"Assistant Instructor, from one to 4，in Confucian Schools in County (hsien), Subprefectures or Departments (chou), and Prefectures (fu)",0,0,0,10,"0,231707","0,32764",Provinces,95,1,11,12,"0,001393","0,001523",1,從八品,8b
+188,部寺司務,80,Executives at Ministries and Courts,0,0,0,8,"0,207373","0,271984",Beijing,"79,065538",10,6,16,"0,002774","0,026732",1,正八品,8a
+170,直隸州州判,75,Assistant Magistrate of Independent Department,0,0,0,9,"0,24375","0,361691",Provinces,"75,155541",1,14,15,"0,001073","0,001523",1,從七品,7b
+232,國子監典籍,95,Certification Clerk of the Directorate of Education,0,0,0,9,"0,199203","0,258675",Beijing,"51,055817",8,4,12,"0,001668","0,012469",1,從九品,9b
+195,翰林院典簿,85,Archivist at the Hanlin Academy,0,0,0,9,"0,218045","0,306329",Beijing,"44,031456",8,7,15,"0,002206","0,022614",1,從八品,8b
+142,國子監監丞,70,Proctor of the Directorate of Education,0,0,0,8,"0,207373","0,271984",Beijing,"32,000616",10,6,16,"0,002091","0,027081",1,正七品,7a
+185,州學正,80,Instructor in a Confucian School,0,0,0,9,"0,24375","0,361691",Provinces,"29,59532",3,14,17,"0,001009","0,003865",1,正八品,8a
+186,縣教諭,80,County Instructor,0,0,0,9,"0,24375","0,361691",Provinces,"29,59532",3,14,17,"0,001009","0,003865",1,正八品,8a
+196,國子監典簿,85,Archivist at the Directorate of Education,0,0,0,9,"0,224265","0,315853",Beijing,"26,657233",8,8,16,"0,001278","0,012139",1,從八品,8b
+175,國子監博士,75,Erudite of the Directorate of Education,0,0,0,8,"0,207373","0,271984",Beijing,"25,531798",5,6,11,"0,001472","0,015382",1,從七品,7b
+217,翰林院待詔,95,Editorial Assistant at the Hanlin Academy,0,0,0,9,"0,199336","0,261726",Beijing,"24,275384",9,4,13,"0,001726","0,013992",1,從九品,9b
+140,外府教授,70,Instructur for Prefecture,0,0,0,9,"0,229508","0,329218",Provinces,"7,042419",6,8,14,"0,001128","0,009093",1,正七品,7a
+153,京府教授,70,Instructor for Shuntian Prefecture,0,0,0,9,"0,229508","0,329218",Beijing,"7,042419",6,8,14,"0,001128","0,009093",1,正七品,7a
+154,鹽運司教授,70,Instructor for Salt Controller,0,0,0,9,"0,229508","0,329218",Provinces,"7,042419",6,7,13,"0,001128","0,009093",1,正七品,7a
+236,翰林院孔目,100,Chief Clerk of the Hanlin Academy,0,0,0,10,"0,182353","0,234287",Beijing,"5,189567",2,4,6,"0,001271","0,003865",1,未入流,nc
+5,舉人,0,Juren,0,0,0,8,"0,291803","0,41561",,0,0,11,11,"0,000753",0,1,unranked,unranked
+19,歲貢生,0,Tribute Student,0,0,0,11,"0,189723","0,237959",,0,0,1,1,"0,000753",0,1,unranked,unranked
+24,恩拔副貢,0,Tribute Student,0,0,0,10,"0,2","0,26377",,0,0,2,2,"0,000753",0,1,unranked,unranked
+144,外縣知縣,70,County Magistrate,0,0,0,8,"0,276596","0,465073",Provinces,"3973,327843",47,35,82,"0,016071","0,521339",2,正七品,7a
+97,六部員外郎,55,Vice Department Director in the Six Ministries,0,0,0,6,"0,302326","0,380342",Beijing,"3881,400152",30,6,36,"0,042183","0,606139",2,從五品,5b
+181,外縣縣丞,80,Vice Magistrate,0,0,0,9,"0,25817","0,383127",Provinces,"2023,666595",29,18,47,"0,011431","0,40426",2,正八品,8a
+133,光祿寺署正,65,Director of the Court of Imperial Entertainments,0,0,0,7,"0,278107","0,362614",Beijing,"1722,315952",17,10,27,"0,007481","0,230666",2,從六品,6b
+160,州判,75,Assistant Department Magistrate,0,0,0,9,"0,258389","0,397408",Provinces,"1595,406234",30,22,52,"0,012261","0,386045",2,從七品,7b
+120,大理寺左右寺丞,60,Assistant Minister the Court of Judicial Review,0,0,0,6,"0,328125","0,399603",Beijing,"1577,337468",2,6,8,"0,002025","0,041439",2,正六品,6a
+78,各省知府,45,Prefect,0,0,0,6,"0,284483","0,347475",Provinces,"1129,710276",14,4,18,"0,038558","0,410296",2,從四品,4b
+84,府同知,50,Vice Prefect,0,0,0,7,"0,25","0,321429",Provinces,"1088,07319",40,6,46,"0,01487","0,623974",2,正五品,5a
+137,布政司理問,65,Judicial Secretary for Provincial Administration Commissioner,0,0,0,8,"0,251121","0,337904",Provinces,"783,488099",13,7,20,"0,006118","0,318261",2,從六品,6b
+83,直隸州知州,50,Magistrate of Independent Department,0,0,0,7,"0,25","0,321429",Provinces,"775,152706",11,6,17,"0,011743","0,351267",2,正五品,5a
+103,知州,55,Department Magistrate,0,0,0,7,"0,258621","0,359524",Provinces,"762,869033",14,12,26,"0,008556","0,41095",2,從五品,5b
+110,六部主事,60,Secretary in the Six Ministries,0,0,0,7,"0,244186","0,301871",Beijing,"704,744946",46,3,49,"0,013846","0,42434",2,正六品,6a
+111,都察院都事,60,Office Manager at the Censorate,0,0,0,7,"0,236686","0,279464",Beijing,"508,169552",42,2,44,"0,011712","0,418249",2,正六品,6a
+184,外府經厯,80,Registrar at a Prefecture,0,0,0,9,"0,242991","0,355281",Provinces,"493,552166",15,12,27,"0,005842","0,209851",2,正八品,8a
+131,州同,65,Department Vice Magistrate,0,0,0,8,"0,253394","0,355761",Provinces,"434,383903",15,12,27,"0,006532","0,243935",2,從六品,6b
+113,京府通判,60,Deputy Vice Prefect of the Capital Prefecture,0,0,0,7,"0,252874","0,333604",Beijing,"373,777433",15,8,23,"0,004762","0,253218",2,正六品,6a
+130,鹽運司運判,65,Deputy Assistant Salt Controller,0,0,0,8,"0,253394","0,355761",Provinces,"284,775259",9,12,21,"0,004249","0,179388",2,從六品,6b
+109,外府通判,60,Deputy Vice Prefect,0,0,0,8,"0,227907","0,333601",Provinces,"264,627178",29,12,41,"0,011234","0,442228",2,正六品,6a
+112,都察院經厯,60,Registrar at the Censorate,0,0,0,7,"0,236686","0,279464",Beijing,"242,252774",5,2,7,"0,001766","0,101523",2,正六品,6a
+162,鑾儀衞經厯,75,Registrar at the Imperial Procession Guard,0,0,0,8,"0,238806","0,329985",Beijing,"226,010505",15,10,25,"0,003468","0,129677",2,從七品,7b
+136,布政司經厯,65,Registrar for Provincial Administration Commissioner,0,0,0,8,"0,247748","0,325866",Provinces,"222,148252",11,5,16,"0,005323","0,246392",2,從六品,6b
+141,兵馬司副指揮,70,Vice Commander of the Warden’s Office,0,0,0,9,"0,243056","0,358577",Beijing,"210,087692",19,14,33,"0,006242","0,239666",2,正七品,7a
+168,光祿寺典簿,75,Archivist at the Court of Imperial Entertainments,0,0,0,8,"0,241379","0,312606",Beijing,"203,121684",3,6,9,"0,00186","0,074239",2,從七品,7b
+115,宗人府主事,60,Secretary at the Imperial Clan Court,0,0,0,7,"0,236686","0,279464",Beijing,"176,653321",31,2,33,"0,007723","0,243943",2,正六品,6a
+218,鴻臚寺序班,95,Usher of the Court of State Ceremonial,0,0,0,10,"0,219451","0,29499",Beijing,176,2,6,8,"0,002033","0,003045",2,從九品,9b
+106,内閣侍讀,60,Reader-in-waiting of the Grand Secretariat,0,0,0,6,"0,29771","0,363248",Beijing,"173,092813",6,4,10,"0,001138","0,010342",2,正六品,6a
+145,按察司經厯,70,Registrar for a Provincial Surveillance Commissioner,0,0,0,9,"0,236934","0,332359",Provinces,"162,908651",21,8,29,"0,005783","0,241807",2,正七品,7a
+204,會同館大使,90,Commissioner-in-chief of the Interpreters and Translators Institute,0,0,0,10,"0,209302","0,273158",Beijing,162,2,4,6,"0,001937","0,002342",2,正九品,9a
+108,兵馬司指揮,60,Commander of the Warden’s Office,0,0,0,8,"0,214286","0,285476",Beijing,"161,078475",15,6,21,"0,007057","0,277918",2,正六品,6a
+169,京府經厯,75,Registrar of the Capital Prefecture,0,0,0,8,"0,26616","0,380323",Beijing,"135,411921",3,10,13,"0,001992","0,080417",2,從七品,7b
+102,鹽運司運副,55,Assistant Salt Controller,0,0,0,8,"0,219048","0,311879",Provinces,"106,58575",11,9,20,"0,004913","0,269543",2,從五品,5b
+151,太常寺典簿,70,Archivist at the Court of Imperial Sacrifices,0,0,0,8,"0,239437","0,328548",Beijing,"105,606433",12,10,22,"0,002562","0,036479",2,正七品,7a
+219,會同館序班,95,Usher of the Interpreters and Translators Institute,0,0,0,11,"0,17484","0,213342",Beijing,82,1,2,3,"0,001393","0,001523",2,從九品,9b
+165,内閣撰文中書,75,Corresponding Secretary in the Grand Secretariat,0,0,0,7,"0,270718","0,381195",Beijing,"41,670339",2,14,16,"0,000903","0,003045",2,從七品,7b
+166,内閣辦事中書,75,Executive Secretary in the Grand Secretariat,0,0,0,7,"0,270718","0,381195",Beijing,"41,670339",2,14,16,"0,000903","0,003045",2,從七品,7b
+87,順天府治中,50,Deputy Vice Governor of Shuntian Prefecture,0,0,0,7,"0,25","0,321429",Beijing,"34,351235",9,6,15,"0,004849","0,187407",2,正五品,5a
+88,奉天府治中,50,Deputy Vice Governor of Fengtian Prefecture,0,0,0,7,"0,25","0,321429",Beijing,"34,351235",9,6,15,"0,004849","0,187407",2,正五品,5a
+104,鹽課司提舉,55,Salt Supervisor,0,0,0,8,"0,21256","0,291964",Provinces,"31,33551",6,8,14,"0,003872","0,154584",2,從五品,5b
+143,京縣縣丞,70,Vice Magistrate in the Capital Prefecture,0,0,0,9,"0,236934","0,332359",Beijing,"28,732502",15,8,23,"0,004444","0,204782",2,正七品,7a
+167,詹事府主簿,75,Recorder of the Household of the Heir Apparent,0,0,0,8,"0,247863","0,33631",Beijing,"27,913444",3,10,13,"0,001185","0,008288",2,從七品,7b
+147,大理寺左右評事,70,Left and Right Case Reviewers of the Court of Judicial Review,0,0,0,8,"0,218009","0,301009",Beijing,"27,86582",6,8,14,"0,001857","0,103046",2,正七品,7a
+148,太常寺博士,70,Erudite of the Court of Imperial Sacrifices of the Court of Imperial Sacrifices,0,0,0,8,"0,218009","0,301009",Beijing,"27,86582",6,8,14,"0,001857","0,103046",2,正七品,7a
+171,布政司都事,75,Office Manager for Provincial Administration Commissioner,0,0,0,9,"0,245734","0,355561",Provinces,"26,677732",6,12,18,"0,003656","0,189695",2,從七品,7b
+149,通政司經厯,70,Registrar at the Office of Transmission,0,0,0,8,"0,226852","0,323397",Beijing,"21,786412",7,9,16,"0,001845","0,105951",2,正七品,7a
+177,布政司庫大使,80,Storehouse Commissioner-in-chief for Provincial Administration Commissioner,0,0,0,9,"0,242991","0,355281",Provinces,"19,5",1,12,13,"0,000913","0,001523",2,正八品,8a
+178,鹽課司大使,80,Saltern Commissioner-in-chief,0,0,0,9,"0,242991","0,355281",Provinces,"19,5",1,12,13,"0,000913","0,001523",2,正八品,8a
+179,鹽引批驗所大使,80,Commissioner-in-chief at Salt Control Station,0,0,0,9,"0,242991","0,355281",Provinces,"19,5",1,12,13,"0,000913","0,001523",2,正八品,8a
+180,運倉大使,80,Commissioner-in-chief of the Salt Storehouse,0,0,0,9,"0,242991","0,355281",Provinces,"19,5",1,9,10,"0,000913","0,001523",2,正八品,8a
+150,通政司知事,70,Administrative Clerk at the Office of Transmission,0,0,0,8,"0,21875","0,300802",Beijing,"17,340483",7,8,15,"0,001845","0,105951",2,正七品,7a
+172,鹽運司經厯,75,Registrar for the Provincial Salt Controller,0,0,0,9,"0,238754","0,334788",Provinces,"16,774584",14,8,22,"0,004124","0,201737",2,從七品,7b
+163,中書科掌印中書,75,Seal-holdingSecretary at Central Drafting Office,0,0,0,8,"0,218009","0,301009",Beijing,"15,807287",3,4,7,"0,001644","0,101523",2,從七品,7b
+164,中書科中書,75,Secretary at Central Drafting Office,0,0,0,8,"0,218009","0,301009",Beijing,"15,807287",5,8,13,"0,001644","0,101523",2,從七品,7b
+79,各省鹽運司運同,45,Deputy Salt Controller,0,0,0,7,"0,226667","0,267507",Provinces,"14,786674",14,2,16,"0,013912","0,370026",2,從四品,4b
+134,直隸州州同,65,Vice Magistrate of an Independent Department,0,0,0,8,"0,275424","0,457381",Provinces,"10,052198",1,32,33,"0,000811","0,001523",2,從六品,6b
+233,鴻臚寺鳴贊,95,Herald of the Court of State Ceremonial,0,0,0,10,"0,215223","0,298282",Beijing,"9,065789",2,8,10,"0,001329","0,003161",2,從九品,9b
+176,國子監助教,75,Instructor of the Directorate of Education,0,0,0,8,"0,207373","0,271984",Beijing,"7,728517",4,6,10,"0,00106","0,006322",2,從七品,7b
+182,國子監學正,80,Instructor of the Directorate of Education,0,0,0,9,"0,220974","0,318086",Beijing,"5,426984",2,9,11,"0,000903","0,003045",2,正八品,8a
+183,國子監學錄,80,Instructor of the Directorate of Education,0,0,0,9,"0,220974","0,318086",Beijing,"5,426984",2,9,11,"0,000903","0,003045",2,正八品,8a
+116,起居注主事,60,Secretary at the Imperial Diary,0,0,0,7,"0,236686","0,279464",Beijing,"0,576923",4,2,6,"0,000972","0,006322",2,正六品,6a
+198,鴻臚寺主簿,85,Record Keeper of the Court of State Ceremonial,0,0,0,10,"0,208556","0,277254",Beijing,"0,302632",2,4,6,"0,001036","0,002771",2,從八品,8b
+121,京縣知縣,60,County Magistrate in Capital Prefecture,0,0,0,8,"0,224299","0,319717",Beijing,"0,25",3,10,13,"0,001553","0,100001",2,正六品,6a
+2,從三品官廕生,0,Hereditary Student (3b),0,0,0,9,"0,24026","0,325681",,0,0,4,4,"0,000753",0,2,unranked,unranked
+4,進士,0,Jinshi,0,0,0,8,"0,274306","0,381721",,0,0,7,7,"0,000753",0,2,unranked,unranked
+7,恩拔副貢考授州判職銜,0,Tribute Student tested for brevet of Assistant Department Magistrate,0,0,0,10,"0,207447","0,268707",,0,0,1,1,"0,000753",0,2,unranked,unranked
+8,漢軍外郎考授州判職銜兼,0,Han Bannerman Officer Tested for Brevet of Assistant Department Magistrate,0,0,0,10,"0,207447","0,268707",,0,0,1,1,"0,000753",0,2,unranked,unranked
+10,學習,0,Apprentice,0,0,0,11,"0,181633","0,223716",,0,0,1,1,"0,000753",0,2,unranked,unranked
+11,生員,0,Student,0,0,0,11,"0,181633","0,223716",,0,0,1,1,"0,000753",0,2,unranked,unranked
+12,譯字生,0,Student of Translation,0,0,0,12,"0,150362","0,179276",,0,0,1,1,"0,000753",0,2,unranked,unranked
+17,正一品官廕生,0,Hereditary Student (1a),0,0,0,7,"0,248555","0,318106",,0,0,3,3,"0,000753",0,2,unranked,unranked
+18,漢軍一品官廕生,0,"Hereditary Student (Han bannermen, rank-class 1)",0,0,0,7,"0,236686","0,279464",,0,0,1,1,"0,000753",0,2,unranked,unranked
+21,從二品官廕生,0,Hereditary Student (2b),0,0,0,8,"0,221198","0,264013",,0,0,1,1,"0,000753",0,2,unranked,unranked
+22,恩拔副貢考授州同職銜,0,Tribute Student tested for brevet of Department Vice Magistrate,0,0,0,9,"0,205036","0,254852",,0,0,1,1,"0,000753",0,2,unranked,unranked
+23,漢軍外郎考授州同職銜,0,Han Bannerman Officer Tested for Brevet of Department Vice Magistrate,0,0,0,9,"0,205036","0,254852",,0,0,1,1,"0,000753",0,2,unranked,unranked
+28,正三品官廕生,0,Hereditary Student (3a),0,0,0,9,"0,219697","0,329317",,0,0,7,7,"0,000753",0,2,unranked,unranked
+29,子爵廕生,0,Hereditary Student (viscount),0,0,0,9,"0,207692","0,279637",,0,0,3,3,"0,000753",0,2,unranked,unranked
+30,貢生,0,Tribute Student,0,0,0,9,"0,219269","0,293615",,0,0,1,1,"0,000753",0,2,unranked,unranked
+31,教習,0,Instructor,0,0,0,9,"0,219269","0,293615",,0,0,1,1,"0,000753",0,2,unranked,unranked
+32,滿洲蒙古筆帖式,0,Manchu or Mongol Clerk,0,0,0,9,"0,219269","0,293615",,0,0,1,1,"0,000753",0,2,unranked,unranked
+33,恩拔副貢考授縣丞職銜,0,Tribute Student tested for brevet of Vice Magistrate,0,0,0,10,"0,207254","0,264072",,0,0,1,1,"0,000753",0,2,unranked,unranked
+34,漢軍外郎考授縣丞職銜兼,0,Han Bannerman Officer Tested for Brevet of Vice Magistrate,0,0,0,10,"0,207254","0,264072",,0,0,1,1,"0,000753",0,2,unranked,unranked
+35,從一品官廕生,0,Hereditary Student (1b),0,0,0,8,"0,2","0,238123",,0,0,1,1,"0,000753",0,2,unranked,unranked
+36,正二品官廕生,0,Hereditary Student (2a),0,0,0,8,"0,215247","0,286235",,0,0,3,3,"0,000753",0,2,unranked,unranked
+37,漢軍二品官廕生,0,"Hereditary Student (Han bannermen, rank-class 2)",0,0,0,8,"0,2","0,238123",,0,0,1,1,"0,000753",0,2,unranked,unranked
+38,庶吉士散館,0,Released Hanlin Batchelor,0,0,0,8,"0,2","0,238123",,0,0,1,1,"0,000753",0,2,unranked,unranked
+124,各部院堂主事,60,Secretaries at the Ministries and Administrations in the Capital,0,0,0,7,"0,236686","0,279464",,0,0,1,1,"0,000753",0,2,正六品,6a
+125,盛京刑部漢軍堂主事,60,Han Bannerman secretary at the Ministry of Justice,0,0,0,7,"0,236686","0,279464",,0,0,1,1,"0,000753",0,2,正六品,6a
+126,六部滿漢堂司主事,60,Secretary in the Six Ministries,0,0,0,8,"0,203883","0,246344",,0,0,1,1,"0,000753",0,2,正六品,6a
+127,步軍統領衙門主事,60,Secretary at Metropolitan Infantry Command,0,0,0,8,"0,203883","0,246344",,0,0,1,1,"0,000753",0,2,正六品,6a
+128,候補候選兵馬司指揮,60,Expectant and Candidate Commander of the Warden Office,0,0,0,9,"0,179688","0,223085",,0,0,1,1,"0,000753",0,2,正六品,6a
+129,候補候選外府通判,60,Expectant and Candidate Deputy Vice Prefect,0,0,0,9,"0,179688","0,223085",,0,0,1,1,"0,000753",0,2,正六品,6a
+139,候補候選州同,65,Expectant and Candidate Department Vice Magistrate,0,0,0,10,"0,197772","0,252945",,0,0,1,1,"0,000753",0,2,從六品,6b
+152,内閣典籍,70,Certification Clerk in the Grand Secretariat,0,0,0,7,"0,26257","0,354863",,0,4,10,14,"0,000972","0,006322",2,正七品,7a
+155,候補候選兵馬司副指揮,70,Expectant and Candidate Vice Commander of the Warden’s Office,0,0,0,10,"0,197772","0,252945",,0,0,1,1,"0,000753",0,2,正七品,7a
+156,漢軍七品筆帖式,70,Han Bannerman Clerk 7th Rank,0,0,0,9,"0,219269","0,293615",,0,0,1,1,"0,000753",0,2,正七品,7a
+157,漢軍内閣典籍,70,Han Bannerman Certification Clerk in the Grand Secretariat,0,0,0,8,"0,203883","0,246344",,0,0,1,1,"0,000753",0,2,正七品,7a
+158,舉人候選知縣,70,Juren selected for County Magistrate,0,0,0,10,"0,203474","0,279694",,0,0,4,4,"0,000753",0,2,正七品,7a
+159,候補知縣,70,Expectant County Magistrate,0,0,0,9,"0,179688","0,223085",,0,0,1,1,"0,000753",0,2,正七品,7a
+192,漢軍八品筆帖式,80,Han Bannerman Clerk 8th Rank,0,0,0,9,"0,211896","0,276615",,0,0,2,2,"0,000753",0,2,正八品,8a
+193,鹽運司庫大使,80,Storehouse Commissioner-in-chief at the Salt Distribution Commission,0,0,0,9,"0,233974","0,333953",,0,0,4,4,"0,000753",0,2,正八品,8a
+194,鹽道庫大使,80,Storehouse Commissioner-in-chief for Salt Circuit Intendant,0,0,0,9,"0,233974","0,333953",,0,0,4,4,"0,000753",0,2,正八品,8a
+210,漢軍九品筆帖式,90,Han Bannerman Clerk 9th Rank,0,0,0,9,"0,240964","0,316999",,0,0,3,3,"0,000753",0,2,正九品,9a
+261,滿洲蒙古正從七八九品小京官,,Manchu and Mongol Metropolitan Officials of Ranks 7b to 9b,0,0,0,8,"0,224215","0,290262",,0,0,2,2,"0,000753",0,2,NA,NA
+262,漢軍七品八品筆帖式,,Han Bannerman Clerk 7th to 8th Rank,0,0,0,8,"0,203704","0,255438",,0,0,2,2,"0,000753",0,2,NA,NA
+199,太醫院八品吏目,85,Medical Secretary in the Imperial Academy of Medicine 8th Rank,0,0,0,10,"0,213542","0,289136",Beijing,156,1,4,5,"0,001345","0,002342",3,從八品,8b
+220,太醫院九品吏目,95,Medical Secretary in the Imperial Academy of Medicine 9th Rank,0,0,0,11,"0,179266","0,230049",Beijing,83,1,2,3,"0,001393","0,001523",3,從九品,9b
+191,太醫院御醫,80,Royal Physician at the Imperial Academy of Medicine,0,0,0,3,"0,5","0,611111",Beijing,9,3,2,5,"0,001726","0,004898",3,正八品,8a
+123,太醫院院判,60,Vice Director of the Imperial Academy of Medicine,0,0,0,2,"0,666667","0,75",Beijing,8,2,2,4,"0,00222","0,003627",3,正六品,6a
+94,太醫院院使,50,Director of the Imperial Academy of Medicine,0,0,0,1,1,1,Beijing,5,2,1,3,"0,00264","0,002849",3,正五品,5a
+13,醫士,0,Student of Medicine,0,0,0,12,"0,153565","0,187261",,0,0,1,1,"0,000753",0,3,unranked,unranked
+257,加京官銜(仍管太醫院事務),,Add Metropolitan Brevet,0,0,0,0,0,0,,0,1,0,1,"0,002996","0,00264",3,NA,NA
+117,欽天監監副,60,Vice Director of the Directorate of Astronomy,0,0,0,7,"0,244186","0,301871",Beijing,"264,554",8,4,12,"0,003486","0,01734",4,正六品,6a
+119,欽天監春夏秋冬中五官正,60,Director of the Five Offices at the Directorate of Astronomy,0,0,0,8,"0,211712","0,278141",Beijing,"92,507838",5,6,11,"0,002141","0,01063",4,正六品,6a
+187,欽天監主簿,80,Recorder of the Directorate of Astronomy,0,0,0,8,"0,211454","0,267138",Beijing,"61,011978",6,4,10,"0,001902","0,009797",4,正八品,8a
+214,欽天監漏刻博士,95,Erudite of the Water Clock at the Directorate of Astronomy,0,0,0,9,"0,192029","0,283086",Beijing,"40,109492",1,9,10,"0,001073","0,001523",4,從九品,9b
+173,欽天監五官靈臺郎,75,Director of the Observatory at the Directorate of Astronomy,0,0,0,8,"0,2","0,238123",Beijing,"39,712719",4,2,6,"0,00124","0,004684",4,從七品,7b
+201,欽天監五官挈壺正,85,Supervisor of the Water Clocks at the Directorate of Astronomy,0,0,0,8,"0,213675","0,277119",Beijing,"13,767465",2,4,6,"0,000936","0,002342",4,從八品,8b
+203,欽天監五官監候,90,Astronomical Observer at the Directorate of Astronomy,0,0,0,9,"0,183453","0,245822",Beijing,"12,890508",1,4,5,"0,001073","0,001523",4,正九品,9a
+93,欽天監監正,50,Director of the Directorate of Astronomy,0,0,0,1,1,1,Beijing,9,2,1,3,"0,002234","0,007456",4,正五品,5a
+9,天文生,0,Student of Astronomy,0,0,0,10,"0,166667","0,230707",,0,0,2,2,"0,000753",0,4,unranked,unranked
+174,主簿,75,County Keeper of Records,0,0,0,0,0,0,,0,2,0,2,"0,001322","0,004898",4,從七品,7b
+207,欽天監五官司書,90,Compiler the Directorate of Astronomy,0,0,0,9,"0,180812","0,234767",,0,2,4,6,"0,000936","0,002342",4,正九品,9a
+256,加京官銜(仍管欽天監事務),,Add Metropolitan Brevet,0,0,0,0,0,0,,0,1,0,1,"0,002652","0,00363",4,NA,NA
+206,縣主簿,90,Assistant Magistrate,0,0,0,10,"0,220779","0,317166",,"1256,751687",31,12,43,"0,007314","0,232733",5,正九品,9a
+205,府知事,90,Administrative Clerk for a Prefect,0,0,0,10,"0,21875","0,309037",,"699,559129",27,10,37,"0,006599","0,302264",5,正九品,9a
+190,按察司知事,80,Administrative Clerk for a Provincial Surveillance Commissioner,0,0,0,9,"0,24","0,32964",,"636,492985",16,4,20,"0,007664","0,38652",5,正八品,8a
+211,京外府照磨,95,Record Keeper for Prefect,0,0,0,10,"0,216837","0,30148",,"329,443365",24,10,34,"0,004453","0,184325",5,從九品,9b
+215,同知照磨,95,Record Kepper for Vice Prefect,0,0,0,10,"0,216837","0,30148",,"329,443365",23,10,33,"0,004453","0,184325",5,從九品,9b
+216,通判照磨,95,Record Keeper for Deputy Vice Prefect,0,0,0,10,"0,216837","0,30148",,"329,443365",24,10,34,"0,004453","0,184325",5,從九品,9b
+225,府稅課司大使,95,Commissioner-in-chief of the Commercial Tax Office of Prefecture,0,0,0,11,"0,189873","0,267712",,"220,163285",27,10,37,"0,002034","0,031966",5,從九品,9b
+238,京外縣典史,100,County Jailor,0,0,0,11,"0,196242","0,293554",,"205,27475",28,17,45,"0,002248","0,033489",5,未入流,nc
+223,州吏目,95,Chief of Police,0,0,0,11,"0,189873","0,267712",,"161,188417",40,10,50,"0,0036","0,103715",5,從九品,9b
+212,府司獄,95,Warder for a Prefect,0,0,0,11,"0,189873","0,267712",,"150,326428",27,10,37,"0,001681","0,03817",5,從九品,9b
+226,按察司司獄,95,Warder for a Provincial Surveillance Commissioner,0,0,0,11,"0,189873","0,267712",,"150,326428",14,5,19,"0,001681","0,03817",5,從九品,9b
+227,同知司獄,95,Warder for a Vice Prefect,0,0,0,11,"0,189873","0,267712",,"150,326428",27,10,37,"0,001681","0,03817",5,從九品,9b
+228,通判司獄,95,Warder for a Deputy Vice Prefect,0,0,0,11,"0,189873","0,267712",,"150,326428",27,10,37,"0,001681","0,03817",5,從九品,9b
+229,巡檢,95,Police Chief,0,0,0,11,"0,191176","0,270265",,"119,24974",21,10,31,"0,003323","0,069099",5,從九品,9b
+222,宣課司大使,95,Commissioner-in-chief of the Commercial Tax Office,0,0,0,11,"0,191579","0,275759",,"104,358832",23,12,35,"0,001615","0,041542",5,從九品,9b
+235,兵馬司吏目,100,Chief-of-police at the Warden’s Office,0,0,0,11,"0,191579","0,275759",,91,1,12,13,"0,001393","0,001523",5,未入流,nc
+213,刑部司獄,95,Warder,0,0,0,10,"0,218045","0,292634",,87,1,6,7,"0,001393","0,001523",5,從九品,9b
+230,府倉大使,95,Granary Commissioner for Prefect,0,0,0,11,"0,190476","0,252834",,"51,617404",27,4,31,"0,001681","0,03817",5,從九品,9b
+231,同知倉大使,95,Granary Commissioner for Vice Prefect,0,0,0,11,"0,190476","0,252834",,"51,617404",27,4,31,"0,001681","0,03817",5,從九品,9b
+241,府檢校,100,Investigator,0,0,0,11,"0,190776","0,268433",,"36,302465",1,10,11,"0,000967","0,001523",5,未入流,nc
+200,布政司照磨,85,Record Keeper for Provincial Administration Commissioner,0,0,0,10,"0,21372","0,295792",,"18,332922",8,8,16,"0,004124","0,201796",5,從八品,8b
+224,道庫大使,95,Storehouse Commissioner-in-chief for Circuit Intendant,0,0,0,11,"0,184322","0,240545",,"18,18653",9,4,13,"0,001154","0,02515",5,從九品,9b
+237,禮部鑄印局大使,100,Commissioner-in-chief of the Seals Service of the Ministry of Rites,0,0,0,11,"0,187243","0,254514",,"17,395069",1,9,10,"0,000967","0,001523",5,未入流,nc
+209,按察司照磨,90,Record Keeper Provincial Surveillance Commissioner,0,0,0,10,"0,213368","0,290672",,"10,660714",10,8,18,"0,005181","0,280904",5,正九品,9a
+15,吏員,0,Clerk,0,0,0,10,"0,261641","0,454251",,0,0,30,30,"0,000753",0,5,unranked,unranked
+16,貢監,0,Tribute Student and Directorate Student by Purchase,0,0,0,11,"0,189583","0,25195",,0,0,2,2,"0,000753",0,5,unranked,unranked
+25,儒士,0,Scholar,0,0,0,12,"0,168696","0,232611",,0,0,3,3,"0,000753",0,5,unranked,unranked
+202,鹽運司知事,85,Administrative Clerk for the Provincial Salt Controller,0,0,0,10,"0,21134","0,282022",,0,2,6,8,"0,001789","0,062824",5,從八品,8b
+234,候補候選對品人員,95,Expectants and Candidate of Commensurate Rank-class,0,0,0,11,"0,180698","0,222471",,0,0,1,1,"0,000753",0,5,從九品,9b
+239,崇文門副使,100,Deputy Commissioner of the Chongwen Gate Tax Office,0,0,0,12,"0,17103","0,255748",,0,7,13,20,"0,000916","0,008548",5,未入流,nc
+240,關大使,100,Commissioner-in-chief of Customs,0,0,0,12,"0,17103","0,255748",,0,7,13,20,"0,000916","0,008548",5,未入流,nc
+242,長官司吏目,100,Secretary at the Chiers Office,0,0,0,12,"0,171329","0,26085",,0,1,15,16,"0,000774","0,001523",5,未入流,nc
+243,茶引批驗所大使,100,Commissioner-in-chief at Tea Control Station,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+244,鹽茶大使,100,Storehouse Commissioner-in-chief for Salt and Tea,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+245,同知庫大使,100,Storehouse Commissioner-in-chief for Vice Prefect,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+246,州庫大使,100,Storehouse Commissioner-in-chief for Department,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+247,稅課司分司大使,100,Commissioner-in-chief for Commercial Tax Office,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+248,州稅課司大使,100,Commissioner-in-chief for Commercial Tax Office for Department,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+249,縣稅課司大使,100,Commissioner-in-chief for Commercial Tax Office for County,0,0,0,12,"0,176471","0,280032",,0,1,19,20,"0,000774","0,001523",5,未入流,nc
+250,驛丞,100,Deputy at Postal Relay Station,0,0,0,12,"0,179931","0,303493",,0,1,27,28,"0,000774","0,001523",5,未入流,nc
+251,河泊所所官,100,Commissioners-in-chief of the Fishing Tax Office,0,0,0,12,"0,179931","0,303493",,0,1,27,28,"0,000774","0,001523",5,未入流,nc
+252,各閘閘官,100,Officer of the Grand Canal Locks,0,0,0,12,"0,179931","0,303493",,0,1,27,28,"0,000774","0,001523",5,未入流,nc
+253,道倉大使,100,Granary Commissioner for Circuit Intendant,0,0,0,12,"0,167539","0,229826",,0,1,6,7,"0,000774","0,001523",5,未入流,nc
+254,州倉大使,100,Granary Commissioner for Department,0,0,0,12,"0,167539","0,229826",,0,1,6,7,"0,000774","0,001523",5,未入流,nc
+255,縣倉大使,100,Granary Commissioner for County,0,0,0,12,"0,167539","0,229826",,0,1,6,7,"0,000774","0,001523",5,未入流,nc
+260,候補候選正從九品人員,,Expectants and Candidates of Ranks 9a and 9b,0,0,0,12,"0,162257","0,20721",,0,0,1,1,"0,000753",0,5,NA,NA
+122,太常寺寺丞,60,Assistant Director of the Court of Imperial Sacrifices,0,0,0,1,1,1,,4,4,1,5,"0,003039","0,005113",6,正六品,6a
+221,太常寺司樂,95,Music Director of the Court of Imperial Sacrifices,0,0,0,3,"0,571429","0,708333",,4,1,4,5,"0,001393","0,001523",6,從九品,9b
+189,太常寺協律郎,80,Chief Musician of the Court of Imperial Sacrifices,0,0,0,2,"0,666667","0,75",,2,2,2,4,"0,001345","0,002342",6,正八品,8a
+208,太常寺贊禮郎,90,Ceremonial Assistant of the Court of Imperial Sacrifices,0,0,0,2,"0,666667","0,75",,2,2,2,4,"0,001345","0,002342",6,正九品,9a
+14,樂舞生,0,Student of Music,0,0,0,4,"0,416667","0,516667",,0,0,1,1,"0,000753",0,6,unranked,unranked
+258,加品級服俸,,Add Brevet Rank-class,0,0,0,0,0,0,,0,1,0,1,"0,003336","0,003664",6,NA,NA
