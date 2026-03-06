@@ -970,11 +970,6 @@ Overall, our findings reveal that for all *chushen* positions, except the studen
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-Overall, our findings reveal that for all *chushen* positions, except the student of medicine (P9), the opportunities to get to the highest ranks are evenly spread. However, in terms of monetary reward, hereditary privilege and imperial grace trump all other provenances. Graduates of the imperial examinations also have positive returns on average, but much humbler than the hereditary group. This, again, may have been due to access to the Assistant Grand Secretary (P353 *xieban daxueshi* 協辦大學士) which is pivotal to reach P352. If this is true, then only those examination candidates would benefit who reach the top-tier *jinshi* degree and were admitted to the Hanlin Academy (C56). Other provenances have slightly negative outcomes on average.
-
-<!-- #endregion -->
-
-<!-- #region editable=true slideshow={"slide_type": ""} -->
 ### When would purchase be lucrative? 
 <!-- #endregion -->
 
