@@ -5,7 +5,7 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.3'
+      format_version: "1.3"
       jupytext_version: 1.19.1
   kernelspec:
     display_name: Python 3 (ipykernel)
@@ -1178,7 +1178,7 @@ In each playthrough, all players start – just as in the game – outside the g
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-First, we consider how long it takes players starting from different _chushen_ to reach the end of the game, i.e. one of the final retirement positions. [Table 8](#anchor-table-441) shows the average number of hops until retirement for the different chushen. The average over all playthroughs in 100,000 simulations with four players is as high as 37 (sd: 12.3), being most heavily influenced by those chushen that one can obtain with a double, i.e. P10-P15, as these are more likely to occur. Observe that in the simulation, a move corresponds to one hop in the network. This is not exactly the same as a roll of dice, as some combinations will not lead to any change in the gameboard, while for others, the player can take multiple steps at once.
+First, we consider how long it takes players starting from different _chushen_ to reach the end of the game, i.e. one of the final retirement positions. [Table 7](#anchor-table-441) shows the average number of hops until retirement for the different chushen. The average over all playthroughs in 100,000 simulations with four players is as high as 37 (sd: 12.3), being most heavily influenced by those chushen that one can obtain with a double, i.e. P10-P15, as these are more likely to occur. Observe that in the simulation, a move corresponds to one hop in the network. This is not exactly the same as a roll of dice, as some combinations will not lead to any change in the gameboard, while for others, the player can take multiple steps at once.
 
 <!-- #endregion -->
 
@@ -1236,7 +1236,7 @@ Finally, looking at the average final rank that players starting from the differ
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-Aside from starting positions, we can also group the data by other properties that distinguish particular backgrounds. For example, [Table 9](#anchor-table-442) shows the average outcomes for players who did or did not go through the examination system. For this purpose, we record during the simulation in a variable for each player whether they have visited one of the positions marked as “exam” in our database, which are spread over several departments located adjacent to the chushen positions (C3, C4, C6, C7, C8, see [Figure 1](#figure-game-chart-*) for the location). As can be seen, the most significant difference in outcomes between the players who visited one of these positions and those that did not is not in the number of moves or the achieved rank class, but in the monetary results of the game. Players who went through the examination system have a slightly positive expected return, originating mostly from payments the other players have to directly make to them.
+Aside from starting positions, we can also group the data by other properties that distinguish particular backgrounds. For example, [Table 8](#anchor-table-442) shows the average outcomes for players who did or did not go through the examination system. For this purpose, we record during the simulation in a variable for each player whether they have visited one of the positions marked as “exam” in our database, which are spread over several departments located adjacent to the chushen positions (C3, C4, C6, C7, C8, see [Figure 1](#figure-game-chart-*) for the location). As can be seen, the most significant difference in outcomes between the players who visited one of these positions and those that did not is not in the number of moves or the achieved rank class, but in the monetary results of the game. Players who went through the examination system have a slightly positive expected return, originating mostly from payments the other players have to directly make to them.
 
 <!-- #endregion -->
 
@@ -1299,7 +1299,7 @@ As a first result, the algorithm outlined above leads to almost all the players 
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-One potential implication of allowing purchase in the rules of the game is that it might level the playing field, by giving players with an unfavorable _chushen_ the chance to make up for their disadvantage. This is suggested by the rules themselves which strongly encourage Students of Astronomy and Medicine to bail out from their _chushen_. Table [10](#table-451-*), which displays the average outcomes of players by _chushen_ with purchase shows that this is indeed the case. Firstly, purchase significantly reduces the number of hops until retirement for all players. Secondly, it reduces both losses and gains for most players, thus leveling the final results. There are exceptions. In comparison to Table [10](#table-441-*), showing the situation without the purchase, the average results of which are also reproduced in Table [10](#table-451-*), some positions may turn their (average) fate from negative to positive (P5, P15) or from positive to negative (P11, P12). Observe that due to the lower number of total playthroughs, the hereditary positions are not included in Table [10](#table-451-*), since they were not visited enough times to obtain reliable results. Due to their immediate gain of a significant amount of money, we expect that they would retain an advantage above other positions.
+One potential implication of allowing purchase in the rules of the game is that it might level the playing field, by giving players with an unfavorable _chushen_ the chance to make up for their disadvantage. This is suggested by the rules themselves which strongly encourage Students of Astronomy and Medicine to bail out from their _chushen_. [Table 9](#anchor-table-451-*), which displays the average outcomes of players by _chushen_ with purchase shows that this is indeed the case. Firstly, purchase significantly reduces the number of hops until retirement for all players. Secondly, it reduces both losses and gains for most players, thus leveling the final results. There are exceptions. In comparison to [Table 7](#anchor-table-441-*), showing the situation without the purchase, the average results of which are also reproduced in [Table 9](#anchor-table-451-*), some positions may turn their (average) fate from negative to positive (P5, P15) or from positive to negative (P11, P12). Observe that due to the lower number of total playthroughs, the hereditary positions are not included in [Table 9](#anchor-table-451-*), since they were not visited enough times to obtain reliable results. Due to their immediate gain of a significant amount of money, we expect that they would retain an advantage above other positions.
 
 <!-- #endregion -->
 
@@ -1309,7 +1309,7 @@ However, according to our interpretation of the rules, the more favorable _chush
 
 <!-- #endregion -->
 
-```python editable=true jdh={"module": "object", "object": {"source": ["Simulation results for purchase"]}} slideshow={"slide_type": ""} tags=["table-451-*", "data-table"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Simulation results for purchase"]}} slideshow={"slide_type": ""} tags=["table-451-*", "anchor-table-451"]
 pandas.read_csv("script/Table 10_purchase_simulation_results.csv")
 ```
 
