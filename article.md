@@ -5,7 +5,7 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.3'
+      format_version: "1.3"
       jupytext_version: 1.19.1
   kernelspec:
     display_name: Python 3 (ipykernel)
@@ -619,7 +619,7 @@ As discussed above, the greater differentiation of positions creates very differ
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-Nevertheless, we do see parallels to “Examination” in the global structure of the game bureaucracy. One is the clustering of the lowest-ranking provincial officials at the bottom (modularity class 17, see Table 2), albeit not as clear-cut as in the “Examination,” as well as the clustering of high-ranking court offices in Beijing at the other end (mc 1 and 22). There is also a large mixed field of Beijing and provincial official in the middle (mc 8, 16, 20). Finally, in Mandarin Promotions we find the same isolated cul-du-sac careers in the Royal Directorate of Astronomy (C40, _qintianjian_ 欽天監) and the Imperial Academy of Medicine (C39, _taiyiyuan_ 太醫院) in modularity classes 18 and 19. Following the game rules, students of astronomy and medicine were the most undesirable chushen starting positions. Original rules on the 1840 game chart stipulated that players landing on these positions should rather seek to bail themselves out by purchase, and these rules were even toughened on the later game chart (see [Equal opportunity?](#anchor-section-5-*)). This could be seen an expression of a value system that cherishes noble status and examination virtue over professional work.
+Nevertheless, we do see parallels to “Examination” in the global structure of the game bureaucracy. One is the clustering of the lowest-ranking provincial officials at the bottom (modularity class 17, see t), albeit not as clear-cut as in the “Examination,” as well as the clustering of high-ranking court offices in Beijing at the other end (mc 1 and 22). There is also a large mixed field of Beijing and provincial official in the middle (mc 8, 16, 20). Finally, in Mandarin Promotions we find the same isolated cul-du-sac careers in the Royal Directorate of Astronomy (C40, _qintianjian_ 欽天監) and the Imperial Academy of Medicine (C39, _taiyiyuan_ 太醫院) in modularity classes 18 and 19. Following the game rules, students of astronomy and medicine were the most undesirable chushen starting positions. Original rules on the 1840 game chart stipulated that players landing on these positions should rather seek to bail themselves out by purchase, and these rules were even toughened on the later game chart (see [Equal opportunity?](#anchor-section-5-*)). This could be seen an expression of a value system that cherishes noble status and examination virtue over professional work.
 
 <!-- #endregion -->
 
@@ -852,7 +852,7 @@ On the surface, the distribution of merit scores between the six ministries appe
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-This trend is more pronounced for the three entry-level positions in the ministries, i.e. those positions that could be directly purchased (see [Realism: The Case of Prefects](anchor-subsection-43-*)). Merit scores for entry-level positions in the six ministries are distributed as shown in Table 6:
+This trend is more pronounced for the three entry-level positions in the ministries, i.e. those positions that could be directly purchased (see [Realism: The Case of Prefects](anchor-subsection-43-*)). Merit scores for entry-level positions in the six ministries are distributed as shown in table 6:
 
 <!-- #endregion -->
 
