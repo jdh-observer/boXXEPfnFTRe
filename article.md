@@ -549,7 +549,7 @@ Even though modularity is not a precise measure, the data show some revealing fe
 
 <!-- #endregion -->
 
-```python editable=true jdh={"module": "object", "object": {"source": ["Examiniation of Rank-Classes (Modularity)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-1-*", "data-table"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Examiniation of Rank-Classes (Modularity)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-1-*", "anchor-table-1"]
 import pandas
 pandas.read_csv("script/Table 1 PJK_Gephi_Analysis_Modularity.csv")
 ```
@@ -619,11 +619,11 @@ As discussed above, the greater differentiation of positions creates very differ
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-Nevertheless, we do see parallels to “Examination” in the global structure of the game bureaucracy. One is the clustering of the lowest-ranking provincial officials at the bottom (modularity class 17, see Table 2), albeit not as clear-cut as in the “Examination,” as well as the clustering of high-ranking court offices in Beijing at the other end (mc 1 and 22). There is also a large mixed field of Beijing and provincial official in the middle (mc 8, 16, 20). Finally, in Mandarin Promotions we find the same isolated cul-du-sac careers in the Royal Directorate of Astronomy (C40, _qintianjian_ 欽天監) and the Imperial Academy of Medicine (C39, _taiyiyuan_ 太醫院) in modularity classes 18 and 19. Following the game rules, students of astronomy and medicine were the most undesirable chushen starting positions. Original rules on the 1840 game chart stipulated that players landing on these positions should rather seek to bail themselves out by purchase, and these rules were even toughened on the later game chart (see [Equal opportunity?](#anchor-section-5-*)). This could be seen an expression of a value system that cherishes noble status and examination virtue over professional work.
+Nevertheless, we do see parallels to “Examination” in the global structure of the game bureaucracy. One is the clustering of the lowest-ranking provincial officials at the bottom (modularity class 17, see [Table 2](#anchor-table-2), albeit not as clear-cut as in the “Examination,” as well as the clustering of high-ranking court offices in Beijing at the other end (mc 1 and 22). There is also a large mixed field of Beijing and provincial official in the middle (mc 8, 16, 20). Finally, in Mandarin Promotions we find the same isolated cul-du-sac careers in the Royal Directorate of Astronomy (C40, _qintianjian_ 欽天監) and the Imperial Academy of Medicine (C39, _taiyiyuan_ 太醫院) in modularity classes 18 and 19. Following the game rules, students of astronomy and medicine were the most undesirable chushen starting positions. Original rules on the 1840 game chart stipulated that players landing on these positions should rather seek to bail themselves out by purchase, and these rules were even toughened on the later game chart (see [Equal opportunity?](#anchor-section-5-*)). This could be seen an expression of a value system that cherishes noble status and examination virtue over professional work.
 
 <!-- #endregion -->
 
-```python editable=true jdh={"module": "object", "object": {"source": ["Mandarin Promotions (Modularity and Betweenness Centrality)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-2-*", "data-table"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Mandarin Promotions (Modularity and Betweenness Centrality)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-2-*", "anchor-table-2"]
 pandas.read_csv("script/Table 2 SGT2_Gephi_Analysis_Betweenness_Modularity.csv")
 ```
 
@@ -675,7 +675,7 @@ For this purpose, we examined who could be appointed to prefect in the game and 
 
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"u5vvo": [{"id": "14298532/53JV9T85", "source": "zotero"}]}} editable=true jdh={"module": "object", "object": {"source": ["Appointments to Prefect in \u201cExaminations\u201d and Mandarin Promotions"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-32-*", "data-table"] -->
+<!-- #region citation-manager={"citations": {"u5vvo": [{"id": "14298532/53JV9T85", "source": "zotero"}]}} editable=true jdh={"module": "object", "object": {"source": ["Appointments to Prefect in \u201cExaminations\u201d and Mandarin Promotions"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-32-*", "anchor-table-32"] -->
 
 | Examination of Rank-Classes (<cite id="u5vvo"><a href="#zotero%7C14298532%2F53JV9T85">(A Gui 阿桂, 2000)</a></cite>) | Mandarin Promotions        | Translation (Explanation)                                                                                |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -763,7 +763,7 @@ We have already seen that Mandarin Promotions follows the “Examination of Rank
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["County Magistrate to Prefect in Mandarin Promotions"]}} slideshow={"slide_type": ""} tags=["table-33-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["County Magistrate to Prefect in Mandarin Promotions"]}} slideshow={"slide_type": ""} tags=["table-33-*", "anchor-table-33"] -->
 
 | County Magistrate                                             | Great Reckoning verdict                      | Appointed to                      |
 | ------------------------------------------------------------- | -------------------------------------------- | --------------------------------- |
@@ -826,11 +826,11 @@ In _Mandarin Promotions_, each ministry is listed with its full list of position
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-For this, we again turn to a graph-local question and use the in-degree of the three lower-ranking positions in each ministry. We remind the reader that the game designer has attached value to dice rolls by naming them, namely: VIRTUE (44), TALENT (66), EFFORT (55), MEDIOCRE (33), WEAK (22), CORRUPT (11). We argue that these names are meaningful and imbue the result of the dice roll with moral value. In a way, they return meritocratic (hence competitive, agon) value to the game, which is entirely a game of luck (alea). We can, therefore, assign a “merit score” by calculating the in-degree by edge type. Merit scores by in-degree for the six ministries are in [Table 5](anchor-table-341):
+For this, we again turn to a graph-local question and use the in-degree of the three lower-ranking positions in each ministry. We remind the reader that the game designer has attached value to dice rolls by naming them, namely: VIRTUE (44), TALENT (66), EFFORT (55), MEDIOCRE (33), WEAK (22), CORRUPT (11). We argue that these names are meaningful and imbue the result of the dice roll with moral value. In a way, they return meritocratic (hence competitive, agon) value to the game, which is entirely a game of luck (alea). We can, therefore, assign a “merit score” by calculating the in-degree by edge type. Merit scores by in-degree for the six ministries are in [Table 5](#anchor-table-341):
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Merit scores by in-degree for the six ministries"]}} slideshow={"slide_type": ""} tags=["table-341-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Merit scores by in-degree for the six ministries"]}} slideshow={"slide_type": ""} tags=["table-341-*, "anchor-table-341"] -->
 
 | Merit           | War | Works | Revenue | Rites | Punishments | Personnel |
 | --------------- | --- | ----- | ------- | ----- | ----------- | --------- |
@@ -856,7 +856,7 @@ This trend is more pronounced for the three entry-level positions in the ministr
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Merit Score for Entry Level Positions"]}} slideshow={"slide_type": ""} tags=["table-342-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Merit Score for Entry Level Positions"]}} slideshow={"slide_type": ""} tags=["table-342-*", "anchor-table-342"] -->
 
 |                 | 郎中, 5a, Department Director | 員外郎, 5b, Vice Department Director | 主事, 6a, Secretary | Totals |
 | --------------- | ----------------------------- | ------------------------------------ | ------------------- | ------ |
@@ -981,7 +981,7 @@ Fifteen of the chushen positions are in a department on the gameboard itself lab
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Chushen Provenances"]}} slideshow={"slide_type": ""} tags=["table-41-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Chushen Provenances"]}} slideshow={"slide_type": ""} tags=["table-41-*", "anchor-table-41"] -->
 
 | Dice | Compartment | Position         | Translation                                 | Category                      |
 | ---- | ----------- | ---------------- | ------------------------------------------- | ----------------------------- |
@@ -1178,11 +1178,11 @@ In each playthrough, all players start – just as in the game – outside the g
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-First, we consider how long it takes players starting from different _chushen_ to reach the end of the game, i.e. one of the final retirement positions. [Table 8](#anchor-able-441) shows the average number of hops until retirement for the different chushen. The average over all playthroughs in 100,000 simulations with four players is as high as 37 (sd: 12.3), being most heavily influenced by those chushen that one can obtain with a double, i.e. P10-P15, as these are more likely to occur. Observe that in the simulation, a move corresponds to one hop in the network. This is not exactly the same as a roll of dice, as some combinations will not lead to any change in the gameboard, while for others, the player can take multiple steps at once.
+First, we consider how long it takes players starting from different _chushen_ to reach the end of the game, i.e. one of the final retirement positions. [Table 8](#anchor-table-441) shows the average number of hops until retirement for the different chushen. The average over all playthroughs in 100,000 simulations with four players is as high as 37 (sd: 12.3), being most heavily influenced by those chushen that one can obtain with a double, i.e. P10-P15, as these are more likely to occur. Observe that in the simulation, a move corresponds to one hop in the network. This is not exactly the same as a roll of dice, as some combinations will not lead to any change in the gameboard, while for others, the player can take multiple steps at once.
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Simulation results without purchase"]}} slideshow={"slide_type": ""} tags=["table-441-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Simulation results without purchase"]}} slideshow={"slide_type": ""} tags=["table-441-*", "anchor-table-441"] -->
 
 | Dice | Position         | Translation                                 | Average number of hops until retirement | Average effective money (From/to pool, From/to other players) | Average final rank (1a = 19, unclassed = 1) |
 | ---- | ---------------- | ------------------------------------------- | --------------------------------------- | ------------------------------------------------------------- | ------------------------------------------- |
@@ -1240,7 +1240,7 @@ Aside from starting positions, we can also group the data by other properties th
 
 <!-- #endregion -->
 
-<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Simulation results by examination system"]}} slideshow={"slide_type": ""} tags=["table-442-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Simulation results by examination system"]}} slideshow={"slide_type": ""} tags=["table-442-*", "anchor-table-442"] -->
 
 | Did go through examination system? | Average number of hops until retirement | Average effective money (From/to pool, From/to other players) | Average final rank (1a = 19, unclassed = 1) |
 | ---------------------------------- | --------------------------------------- | ------------------------------------------------------------- | ------------------------------------------- |
