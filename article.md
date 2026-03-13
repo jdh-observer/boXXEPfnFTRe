@@ -5,7 +5,7 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.3'
+      format_version: "1.3"
       jupytext_version: 1.19.1
   kernelspec:
     display_name: Python 3 (ipykernel)
@@ -539,7 +539,7 @@ display(Image("media/Figure 3.2.1. PJK_Trsl.png"), metadata=metadata)
 
 <!-- #region citation-manager={"citations": {"uaz7p": [{"id": "14298532/WB58FURK", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 
-This graph (Figures [3](#figure-321-*) and [4](#figure-321-tranls-*)) first shows a high degree of modularity which is not a fact widely known about the Qing bureaucracy. Modularity (or community detection) is defined as “decomposing the networks into sub-units or communities, which are sets of highly interconnected nodes” (<cite id="uaz7p"><a href="#zotero%7C14298532%2FWB58FURK">(Blondel et al., 2008)</a></cite>, 2). We may remind the reader that this is not a social network. Clustered areas do not mean that officials of these types socialized more with each other than with others. Rather, as in a transport network, communities show areas more densely connected by career paths and distinguish them from other areas which are more distantly connected.
+This graph ([figure 3](#figure-321-*) and [figure 4](#figure-321-tranls-*)) first shows a high degree of modularity which is not a fact widely known about the Qing bureaucracy. Modularity (or community detection) is defined as “decomposing the networks into sub-units or communities, which are sets of highly interconnected nodes” (<cite id="uaz7p"><a href="#zotero%7C14298532%2FWB58FURK">(Blondel et al., 2008)</a></cite>, 2). We may remind the reader that this is not a social network. Clustered areas do not mean that officials of these types socialized more with each other than with others. Rather, as in a transport network, communities show areas more densely connected by career paths and distinguish them from other areas which are more distantly connected.
 
 <!-- #endregion -->
 
@@ -623,7 +623,7 @@ Nevertheless, we do see parallels to “Examination” in the global structure o
 
 <!-- #endregion -->
 
-```python editable=true jdh={"module": "object", "object": {"source": ["Mandarin Promotions (Modularity and Betweenness Centrality)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-gephi-analysis-between-modulairty-*", "anchor-gephi-analysis-between-modulairty-"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Mandarin Promotions (Modularity and Betweenness Centrality)"], "type": "image"}} slideshow={"slide_type": ""} tags=["table-gephi-analysis-between-modulairty-*", "anchor-gephi-analysis-between-modulairty"]
 pandas.read_csv("script/Table 2 SGT2_Gephi_Analysis_Betweenness_Modularity.csv")
 ```
 
@@ -852,7 +852,7 @@ On the surface, the distribution of merit scores between the six ministries appe
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 
-This trend is more pronounced for the three entry-level positions in the ministries, i.e. those positions that could be directly purchased (see [Realism: The Case of Prefects](anchor-subsection-43-*)). Merit scores for entry-level positions in the six ministries are distributed as shown in [Table 6](#anchor-table-342):
+This trend is more pronounced for the three entry-level positions in the ministries, i.e. those positions that could be directly purchased (see [Realism: The Case of Prefects](anchor-subsection-43-*)). Merit scores for entry-level positions in the six ministries are distributed as shown in [Table 5](#anchor-table-342):
 
 <!-- #endregion -->
 
@@ -977,7 +977,7 @@ In _Mandarin Promotions_, commoners remain “outside the game” (_juwai_ 局�
 
 <!-- #region citation-manager={"citations": {"wu8um": [{"id": "14298532/J8BBF2K4", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 
-Fifteen of the chushen positions are in a department on the gameboard itself labelled “_chushen_ 出身” (C1). Each of these fifteen denominations does have significance in the real world of the Qing dynasty. Other (real-world) chushen categories are in other departments of the game chart. Examination degrees beyond the first degree (P10, _shengyuan_ 生員), so-called “_kejia chushen_ 科甲出身” are located in the departments for the provincial and metropolitan examinations. Hereditary titles of lower nobility listed below (C2) also conferred _chushen_, without being located in the “_Chushen_” department. Following the Taiping Rebellion (1850-1864) when so many officials perished in office, such titles were given to a son as a reward (<cite id="wu8um"><a href="#zotero%7C14298532%2FJ8BBF2K4">(Meyer-Fong, 2013)</a></cite>). In the game they represent a big win. [Table 7](#anchor-table-41) lists the chushen positions in the game:
+Fifteen of the chushen positions are in a department on the gameboard itself labelled “_chushen_ 出身” (C1). Each of these fifteen denominations does have significance in the real world of the Qing dynasty. Other (real-world) chushen categories are in other departments of the game chart. Examination degrees beyond the first degree (P10, _shengyuan_ 生員), so-called “_kejia chushen_ 科甲出身” are located in the departments for the provincial and metropolitan examinations. Hereditary titles of lower nobility listed below (C2) also conferred _chushen_, without being located in the “_Chushen_” department. Following the Taiping Rebellion (1850-1864) when so many officials perished in office, such titles were given to a son as a reward (<cite id="wu8um"><a href="#zotero%7C14298532%2FJ8BBF2K4">(Meyer-Fong, 2013)</a></cite>). In the game they represent a big win. [Table 6](#anchor-table-41) lists the chushen positions in the game:
 
 <!-- #endregion -->
 
